@@ -106,9 +106,10 @@
 - アルゴリズムをシステムやシミュレーターへ実装する技術
 
 ## 講演・受賞歴
-- 2020/07: [データラーニングギルド1周年LT](https://speakerdeck.com/daikichidaze/enziniazhi-nil-fei-enziniazhi-nizhuan-zhi-siteqi-duitabian-hua)
-- 2019/06: プロジェクト表彰「ユニットプラン設計自動化システムの開発」
-- 2017/06: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
+- 2020年7月: [データラーニングギルド1周年LT](https://speakerdeck.com/daikichidaze/enziniazhi-nil-fei-enziniazhi-nizhuan-zhi-siteqi-duitabian-hua)
+- 2019年6月: プロジェクト表彰「ユニットプラン設計自動化システムの開発」
+- 2018年3月: 第65回数理社会学会大会 萌芽的セッション([ポスター発表](https://drive.google.com/file/d/1JmTXfzzNOiDlprru_fwQldBxXBKa1Rns/view?usp=sharing))
+- 2017年6月: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
 
 ## プロジェクト例
 これまで携わった主なプロジェクトについて、以下に詳細を補足。
