@@ -11,7 +11,7 @@
 |GitHub|[@daikichidaze](https://github.com/daikichidaze)|
 
 ## SUMMARY
-My goal is to become a bridge between technology and business. Especially in the topics of data scientist and business planner. I have experience in both engineering and business positions.
+My goal is to become a bridge between technology and business. Especially in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
 
 
 ### Launch the New business development division in Thailand branch
@@ -117,18 +117,18 @@ Explanations of projects which I have experienced in the past are shown below.
   - I set up our own software development team, especially in a situation with limited experience in the development.
   - This project has become an achievement that leads to the planning of company-wide application business strategies.
 
-### 3.MaaSサービスの企画事前検討
-- 世の中にはない新たなサービス要件を検討するため、コンピュータ上の仮想社会にて事前にサービス構想を検証するためのシミュレーター開発
-- プロジェクトリーダーとして、幅広い役割に従事
-  - プリセールス・基本検討
-  - 要件定義・システム設計
-  - 数理最適化アルゴリズム/シミュレーター開発
-    - 組み合わせ最適化による運行スケジュールの策定
-    - ヒューリスティックな相乗りアルゴリズムの開発
-  - シミュレーション実行及び結果データ分析
-    - シミュレーション条件の検討
-    - 分析レポート作成
-  - 上記プロセスにおけるプロジェクトマネジメント
+### 3.Pre-study of new MaaS services
+- Development of a simulator to validate service concepts in a virtual world on a computer in order to study new service requirements that do not exist in the world.
+- Worked in a wide range of roles as a project leader
+  - Pre-sales and basic design
+  - Requirement definition and system design
+  - Mathematical optimization algorithm and simulator development
+    - Planning of an operation schedule through combination optimization
+    - Development of a heuristic carpooling algorithm
+  - Simulation execution and data analysis of the calculation result
+    - Consideration of simulation conditions
+    - Analysis report creation
+  - Project management in the above process
 
 
 
