@@ -56,8 +56,9 @@ My goal is to become a person to bridge between technology and business. Especia
 
 ## EDUCATION
 
-- Tokyo Metropolitan University, Department of Chemistry    March 2016
+- M.A. (Chemistry) at Tokyo Metropolitan University,    March 2016
   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
+  - Study of the formation process of the early solar system by chemical analysis of meteorites
 
 ---
 
