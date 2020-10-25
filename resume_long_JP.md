@@ -55,7 +55,8 @@
 - **首都大学東京大学院　理工学研究科　分子物質化学専攻**　2016年3月卒業
   - (現) 東京都立大学院　理学部　化学科
   - 専門：宇宙化学・地球化学・無機分析化学
-  - [修士論文](https://tokyo-metro-u.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=2252&item_no=1&page_id=30&block_id=164)
+  - 隕石の化学分析による初期太陽系の形成過程に対する考察
+    - [修士論文](https://tokyo-metro-u.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=2252&item_no=1&page_id=30&block_id=164)
 
 ---
 
@@ -96,7 +97,7 @@
 - 代表：2012年
   - イベントの企画・運営におけるリーダーやより長期的な視点における組織運営を経験
 
-## 自己PR
+## 強み
 ### 企画力
 - アイディアをもとに、その事業・イベント・プロジェクトを企画する力
   - 本質を捉え、人に伝える力
