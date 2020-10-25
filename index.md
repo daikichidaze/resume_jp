@@ -1,14 +1,15 @@
 # 職務経歴書
 
 ## 基本情報
-|Key|Value|
-|---|-----|
-|名前|吉岡 拓真 (Yoshioka Takuma)|
-|場所|タイ王国 バンコク都|
-|LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
-|Qiita|[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
+
+|Key        |Value                      |
+|-----------|---------------------------|
+|名前       |吉岡 拓真 (Yoshioka Takuma)|
+|場所       |タイ王国 バンコク都|
+|LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
+|Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
-|GitHub|[@daikichidaze](https://github.com/daikichidaze)|
+|GitHub     |[@daikichidaze](https://github.com/daikichidaze)|
 
 ## 概要
 「**データサイエンティスト×事業企画**」を目指して、技術とビジネスの架け橋となるような人物を目指し、エンジニア職・ビジネス職のどちらも経験してきました。
