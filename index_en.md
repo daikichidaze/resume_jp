@@ -58,7 +58,7 @@ My goal is to become a person to bridge between technology and business. Especia
 
 - M.A. (Chemistry) at Tokyo Metropolitan University,    March 2016
   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-  - Study of the formation process of the early solar system by chemical analysis of meteorites
+  - Study the formation process of the early solar system by chemical analysis of meteorites
 
 ---
 
