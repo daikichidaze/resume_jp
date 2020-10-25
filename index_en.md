@@ -1,4 +1,4 @@
-# Takuma Yoshioka
+# Resume
 
 [**日本語版**](index.md)
 
