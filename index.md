@@ -1,5 +1,7 @@
 # 職務経歴書
 
+[**English version**](index_en.md)
+
 ## 基本情報
 
 |Key        |Value                      |
