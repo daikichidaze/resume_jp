@@ -2,4 +2,4 @@
 plugins:
   - jekyll-remote-theme
   
-remote_theme: themefisher/kross-jekyll
+remote_theme: chrisrhymes/mere-blog-theme
