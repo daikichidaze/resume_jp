@@ -1,5 +1,7 @@
 # Takuma Yoshioka
 
+[**日本語版**](index.md)
+
 ## Basic infomation
 
 |Key|Value|
