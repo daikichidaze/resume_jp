@@ -1,1 +1,0 @@
-gem "mere-blog-theme"
