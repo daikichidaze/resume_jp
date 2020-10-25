@@ -136,6 +136,8 @@
 - 2018年3月: 第65回数理社会学会大会 萌芽的セッション([ポスター発表](https://drive.google.com/file/d/1JmTXfzzNOiDlprru_fwQldBxXBKa1Rns/view?usp=sharing))
 - 2017年6月: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
 
+---
+
 ## プロジェクト例
 
 これまで携わった主なプロジェクトについて、以下に詳細を補足。

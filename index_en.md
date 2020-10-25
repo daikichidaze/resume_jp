@@ -116,6 +116,8 @@ My goal is to become a person to bridge between technology and business. Especia
 - Data analysis skills
 - System development skills
 
+---
+
 ## EXPERIENCED PROJECTS
 
 Explanations of projects which I have experienced in the past are shown below.
