@@ -14,10 +14,12 @@
 |GitHub|[@daikichidaze](https://github.com/daikichidaze)|
 
 ## SUMMARY
-My goal is to become a bridge between technology and business. Especially in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
+
+My goal is to become a person to bridge between technology and business. Especially in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
 
 
 ### Launch the New business development division in Thailand branch
+
 - Worked in launching the **New business planning function** at Toyota Tsusho's overseas affiliate.
   - There was no new business planning function established when I joined.
   - I built a **new framework** to be its own process in the company.
@@ -30,6 +32,7 @@ My goal is to become a bridge between technology and business. Especially in the
   - Sales flow standardization and systemization planning
 
 ### Engineering consulting as a mathematical optimization engineer
+
 - Consulting, data analysis, system development and project leader using technology of operations research and mathematical optimization.
   - Carry out the development of mathematical model, simulator, data analysis tools by using Python, C#.
   - Lead the project as project leader in numerous projects (~10 million JPY / 20 projects）
@@ -37,19 +40,22 @@ My goal is to become a bridge between technology and business. Especially in the
 
 ## WORK EXPERIENCE
 ### TT Network Integration （Thailand） Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
+
 **New business planner / Software engineer**
 - Launch the New business development department
 - New business planning
 - Corporate planning
 
 ### KOZO KEIKAKU ENGINEERING Inc.,    Tokyo Japan (April 2016 - June 2019)
+
 **Mathematical optimization engineer / consultant**
-- Project reader / Data Scientist / System Engineer
+- Project leader / Data Scientist / System Engineer
 - Educator in the department
   - I restructured the department's education system, which had been in a state of disarray.
     - There was an urgent need to improve the skills of junior members because of internal resource transfers.
 
 ## EDUCATION
+
 - Tokyo Metropolitan University, Department of Chemistry    March 2016
   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
 
@@ -73,6 +79,7 @@ My goal is to become a bridge between technology and business. Especially in the
 |Japan Information-Technology Engineers Examination (Applied Information Technology)|2016|
 
 ## LANGUAGE
+
 - Japanese: Naitive
 - English: Business level
   - TOEIC Listening & Reading Score 805
@@ -81,6 +88,7 @@ My goal is to become a bridge between technology and business. Especially in the
 
 ## External activities
 ### DataLearningGuild (2020 - Present)
+
 - Online community of Japanese data scientists
 - Carry out the projects in side of the community
   - Nertwork analysis of slack conversation data：[doc](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi)
@@ -88,25 +96,31 @@ My goal is to become a bridge between technology and business. Especially in the
   - User searching project (Develop GCP environment)
 
 ### TMU-SFC (2010 - 2016)
+
 - A student club that plans and operates a science experiment class.
 - Chief at 2012
   - Experience in leadership and longer-term organizational management
 
 ## PERSONAL PROFILE STATEMENT
 ### Planning ability
+
 - Ability to plan a business, events or projects based on an idea.
   - Ability to capture the essence and communicate it to others.
   - Ability to promote and execute the planned project
   - Communication skills to involve members in planning
+
 ### Technical skills
+
 - Optimization skills
 - Data analysis skills
 - System development skills
 
 ## EXPERIENCED PROJECTS
+
 Explanations of projects which I have experienced in the past are shown below.
 
 ### 1.Establishment of a new business planning function
+
 - Establishing a new business planning function from the conceptual stage that the company previously did not have.
 - Each member was working separately on the Feasibility study project (FS).
   - It was not possible to evaluate each new business project, and it had become a passive activity.
@@ -114,6 +128,7 @@ Explanations of projects which I have experienced in the past are shown below.
 - In addition, I suggested the need for a business planning function in response to the situation that involved working only on FS. After that I worked extensively as a company-wide planning function.
 
 ### 2.Lanch a productivity improvement consulting service for automotive R&D designers
+
 - Lead the launch of a productivity consulting service as a strategic new business for an existing division of an automotive R&D client.
   - It was a challenge for the existing business units to have a deep understanding of the designer's process.
   - As a response to this, I provided an integrated service from hearing to tool development to improve business efficiency.
@@ -123,6 +138,7 @@ Explanations of projects which I have experienced in the past are shown below.
   - This project has become an achievement that leads to the planning of company-wide application business strategies.
 
 ### 3.Pre-study of new MaaS services
+
 - Development of a simulator to validate service concepts in a virtual world on a computer in order to study new service requirements that do not exist in the world.
 - Worked in a wide range of roles as a project leader
   - Pre-sales and basic design
@@ -134,6 +150,3 @@ Explanations of projects which I have experienced in the past are shown below.
     - Consideration of simulation conditions
     - Analysis report creation
   - Project management in the above process
-
-
-
