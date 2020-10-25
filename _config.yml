@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Takuma Yoshioka - resume"
+contact_links:
+  - name: Facebook
+    url: https://www.facebook.com/daikichi.daze
+    icon: facebook
