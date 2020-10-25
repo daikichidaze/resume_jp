@@ -1,6 +1,7 @@
 # Takuma Yoshioka
 
 ## Basic infomation
+
 |Key|Value|
 |---|-----|
 |Name|Takuma Yoshioka (吉岡 拓真)|
@@ -53,6 +54,7 @@ My goal is to become a bridge between technology and business. Especially in the
 ---
 
 ## SKILLS
+
 |Category|Items|
 |--------|-----|
 |Programming languages|Python / C# / VBA / SQL|
@@ -61,6 +63,7 @@ My goal is to become a bridge between technology and business. Especially in the
 |Soft skills|Planning / Leadership / Facilitation|
 
 ## CERTIFICATION
+
 |Name|Year|
 |------|------|
 |TOEIC Listening & Reading Score 805|2019|

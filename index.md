@@ -4,7 +4,7 @@
 
 |Key        |Value                      |
 |-----------|---------------------------|
-|名前       |吉岡 拓真 (Yoshioka Takuma)|
+|名前       |**吉岡 拓真** (Yoshioka Takuma)|
 |場所       |タイ王国 バンコク都|
 |LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
 |Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
@@ -62,6 +62,7 @@
 ---
 
 ## スキル
+
 |Category|Items|
 |--------|-----|
 |開発言語|Python / C# / VBA / SQL|
@@ -70,6 +71,7 @@
 |ソフトスキル|企画力 / リーダーシップ / ファシリテーション / キャッチアップ力|
 
 ## 資格
+
 |資格名|取得年|
 |------|------|
 |TOEIC Listening & Reading 805点|2019年|
