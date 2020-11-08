@@ -15,7 +15,7 @@
 
 ## SUMMARY
 
-My goal is to become a person to bridge between technology and business. Especially in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
+My goal is to become a person to bridge between technology and business. Particularly in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
 
 
 ### Launch the New business development division in Thailand branch
@@ -137,7 +137,7 @@ Explanations of projects which I have experienced in the past are shown below.
   - As a response to this, I provided an integrated service from hearing to tool development to improve business efficiency.
   - In particular, the team was able to break through the barriers that have prevented them from launching the original service. (~ 5 million THB / year)
 - I led everything from early-stage business planning, actual service works and launch the tool development team.
-  - I set up our own software development team, especially in a situation with limited experience in the development.
+  - I set up our own software development team, particularly in a situation with limited experience in the development.
   - This project has become an achievement that leads to the planning of company-wide application business strategies.
 
 ### 3.Pre-study of new MaaS services
