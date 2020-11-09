@@ -59,6 +59,7 @@ My goal is to become a person to bridge between technology and business. Particu
 - M.A. (Chemistry) at Tokyo Metropolitan University,    March 2016
   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
   - Study the formation process of the early solar system by chemical analysis of meteorites
+  - https://www.nipr.ac.jp/symposium2014/program/abstract/OA_Yoshioka_00407_01.pdf
 
 ---
 
