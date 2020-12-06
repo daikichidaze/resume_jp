@@ -39,7 +39,7 @@ My goal is to become a person to bridge between technology and business. Particu
 
 
 ## WORK EXPERIENCE
-### TT Network Integration （Thailand） Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
+### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
 
 **New business planner / Software engineer**
 - Launch the New business development department
