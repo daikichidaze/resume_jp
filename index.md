@@ -10,6 +10,7 @@
 |場所       |タイ王国 バンコク都|
 |LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
 |Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
+|Zenn       |[@daikichidaze](https://zenn.dev/daikichidaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
 |GitHub     |[@daikichidaze](https://github.com/daikichidaze)|
 
@@ -40,14 +41,6 @@
 今後も**IT技術とビジネスの両面を理解**し、それらを繋ぎ合わせることで新たな事業を企画できる人物を目指し、社会へ貢献していきたいと考えています。
 
 ## 職務経歴
-### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd. (2019年8月〜現在)
-
-**新規事業企画 / ソフトウェアエンジニア**
-- 新規事業企画部の立ち上げ
-- 新規事業の立ち上げ
-  - タイ人メンバーへの新たな業務創造
-- 経営企画/事業企画としての企画業務
-
 ### 株式会社構造計画研究所（2016年4月〜2019年6月）
 
 **数理最適化エンジニア・コンサルタント**
@@ -57,6 +50,14 @@
     - 教育制度の立て直しにより、部全体におけるスキルの底上げを主導
       - 勉強会を複数企画（週１回）
       - コードレビュー制度の再開・運用
+
+### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd. (2019年8月〜現在)
+
+**新規事業企画 / ソフトウェアエンジニア**
+- 新規事業企画部の立ち上げ
+- 新規事業の立ち上げ
+  - タイ人メンバーへの新たな業務創造
+- 経営企画/事業企画としての企画業務
 
 ## 学歴
 
@@ -73,8 +74,9 @@
 |Category|Items|
 |--------|-----|
 |開発言語|Python / C# / VBA / SQL|
+|NoCode|bubble.io|
 |クラウド環境|AWS / GCP / Azure|
-|技術テーマ|オペレーションズ・リサーチ / 数理最適化 / シミュレーション / データ分析 / ネットワーク分析 / 機械学習|
+|技術テーマ|オペレーションズ・リサーチ / 数理最適化 / シミュレーション / データ分析 / ネットワーク分析 / 機械学習 / NoCode|
 |ソフトスキル|企画力 / リーダーシップ / ファシリテーション / キャッチアップ力|
 
 ## 資格
