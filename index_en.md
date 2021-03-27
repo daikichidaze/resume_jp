@@ -10,6 +10,7 @@
 |Place|Bangkok Thailand|
 |LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
 |Qiita|[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
+|Zenn|[@daikichidaze](https://zenn.dev/daikichidaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
 |GitHub|[@daikichidaze](https://github.com/daikichidaze)|
 
@@ -68,8 +69,9 @@ My goal is to become a person to bridge between technology and business. Particu
 |Category|Items|
 |--------|-----|
 |Programming languages|Python / C# / VBA / SQL|
+|NoCode|bubble.io|
 |Cloud environment|AWS / GCP / Azure|
-|Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning|
+|Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
 |Soft skills|Planning / Leadership / Facilitation|
 
 ## CERTIFICATION
