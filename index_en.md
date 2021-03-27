@@ -38,6 +38,7 @@ My goal is to become a person to bridge between technology and business. Particu
   - Carry out the development of mathematical model, simulator, data analysis tools by using Python, C#.
   - Lead the project as project leader in numerous projects (~10 million JPY / 20 projects）
 
+---
 
 ## WORK EXPERIENCE
 ### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
