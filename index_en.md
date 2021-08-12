@@ -16,7 +16,7 @@
 
 ## SUMMARY
 
-My goal is to become a person to bridge between technology and business. Particularly in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
+My goal is create my career as a person to bridge between technology and business. Particularly in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
 
 
 ### Launch the New business development division in Thailand branch
@@ -69,7 +69,7 @@ My goal is to become a person to bridge between technology and business. Particu
 
 |Category|Items|
 |--------|-----|
-|Programming languages|Python / C# / VBA / SQL|
+|Programming languages|Python / C# / VBA / SQL / Go|
 |NoCode|bubble.io|
 |Cloud environment|AWS / GCP / Azure|
 |Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
