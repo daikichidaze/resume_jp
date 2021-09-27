@@ -134,6 +134,15 @@
 - 代表：2012年
   - イベントの企画・運営におけるリーダーやより長期的な視点における組織運営を経験
 
+## 講演・受賞歴
+
+- 2020年7月: [データラーニングギルド1周年LT](https://speakerdeck.com/daikichidaze/enziniazhi-nil-fei-enziniazhi-nizhuan-zhi-siteqi-duitabian-hua)
+- 2019年6月: プロジェクト表彰「ユニットプラン設計自動化システムの開発」
+- 2018年3月: 第65回数理社会学会大会 萌芽的セッション([ポスター発表](https://drive.google.com/file/d/1JmTXfzzNOiDlprru_fwQldBxXBKa1Rns/view?usp=sharing))
+- 2017年6月: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
+
+---
+
 ## 強み
 ### 企画力
 
@@ -154,12 +163,6 @@
 - 機械学習とは異なるモデル化のアプローチである数理最適化の技術
 - アルゴリズムをシステム・シミュレーターへ実装する技術
 
-## 講演・受賞歴
-
-- 2020年7月: [データラーニングギルド1周年LT](https://speakerdeck.com/daikichidaze/enziniazhi-nil-fei-enziniazhi-nizhuan-zhi-siteqi-duitabian-hua)
-- 2019年6月: プロジェクト表彰「ユニットプラン設計自動化システムの開発」
-- 2018年3月: 第65回数理社会学会大会 萌芽的セッション([ポスター発表](https://drive.google.com/file/d/1JmTXfzzNOiDlprru_fwQldBxXBKa1Rns/view?usp=sharing))
-- 2017年6月: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
 
 ---
 
