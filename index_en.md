@@ -1,6 +1,6 @@
-# Resume
+# Takuma Yoshioka
 
-[**日本語版**](index.md)
+[**日本語版 (Japanese version)**](index.md)
 
 ## Basic infomation
 
