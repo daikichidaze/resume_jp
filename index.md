@@ -8,11 +8,12 @@
 |-----------|---------------------------|
 |名前       |**吉岡 拓真** (YOSHIOKA, Takuma)|
 |場所       |タイ王国 バンコク都|
-|LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
+|note       |[@daikichidaze](https://note.com/daikichidaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
 |Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
 |Zenn       |[@daikichidaze](https://zenn.dev/daikichidaze)|
 |GitHub     |[@daikichidaze](https://github.com/daikichidaze)|
+|LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
 
 # 概要
 
