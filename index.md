@@ -127,6 +127,7 @@
 
 ## サンカクパートナー（2021年6月〜現在）
 
+- 株式会社バンダイナムコネクサス向けイベントの企画・運営：[第1回](https://sankak.jp/event/bandainamco-nexus202111), [第2回](https://sankak.jp/event/bandainamco-nexus202201)
 - AI/DX勉強会：[発表資料](https://speakerdeck.com/daikichidaze/dxmian-qiang-hui)
 
 ## TMU-SFC（2010年4月〜2016年3月）
