@@ -72,6 +72,10 @@
       - コードレビュー制度の再開・運用
 
 # 副業
+## Flare (Thailand) Co.,Ltd.（2021年11月〜現在）
+**スマートフォンGPSデータを利用したDriving Event検出アルゴリズムの開発**
+- ベトナム人エンジニアとの協業によるアルゴリズム新規開発
+
 ## 株式会社データラーニング（2021年1月〜現在）
 
 **データラーニングスクールにおけるメンター講師**
@@ -122,7 +126,7 @@
 - データサイエンティストが集うオンラインコミュニティに参加
 - コミュニティ内企画として、下記プロジェクトを推進
   - slackデータのネットワーク分析：[発表資料](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi)
-  - コミュニティ内のナレッジグラフ構築（SemanticMediaWiki）
+  - コミュニティ内のナレッジグラフ構築（SemanticMediaWiki）:[データ変換リポジトリ](https://github.com/data-learning-guild/semantic-mediawiki-page-creation)
   - ユーザ検索プロジェクト（GCP基盤構築）
 
 ## サンカクパートナー（2021年6月〜現在）
