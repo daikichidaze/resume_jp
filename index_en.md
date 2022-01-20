@@ -8,10 +8,8 @@
 |---|-----|
 |Name|Takuma Yoshioka (吉岡 拓真)|
 |Place|Bangkok Thailand|
+|twitter|[@daikichidaz](https://twitter.com/daikichidaz)
 |LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
-|Qiita|[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
-|Zenn|[@daikichidaze](https://zenn.dev/daikichidaze)|
-|SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
 |GitHub|[@daikichidaze](https://github.com/daikichidaze)|
 
 ## SUMMARY
