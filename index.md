@@ -137,26 +137,31 @@
 
 # 社外活動
 ## 和組DAO（2022年1月〜現在）
+
+- 「日本をWeb3立国にする」ミッションのもと活動するDAO
 - Team Communityメンバーとして、コミュニティの活性化を目標に活動
 
 ## データラーニングギルド（2020年4月〜現在）
 
-- データサイエンティストが集うオンラインコミュニティに参加
-- コミュニティ内企画として、下記プロジェクトを推進
+- データサイエンティストが集うオンラインコミュニティにて活動
+- コミュニティ内企画として下記プロジェクトを推進
+  - データサイエンス学習者の課題を解決するWebサイト構築のための、クラウドファンディング企画
   - slackデータのネットワーク分析：[発表資料](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi)
   - コミュニティ内のナレッジグラフ構築（SemanticMediaWiki）
   - ユーザ検索プロジェクト（GCP基盤構築）
 
 ## サンカクパートナー（2021年6月〜現在）
 
-- 株式会社バンダイナムコネクサス向けイベントの企画・運営：[第1回](https://sankak.jp/event/bandainamco-nexus202111), [第2回](https://sankak.jp/event/bandainamco-nexus202201)
-- AI/DX勉強会：[発表資料](https://speakerdeck.com/daikichidaze/dxmian-qiang-hui)
+- 社会人インターンシップ1日イベントの企画・運営
+  - 株式会社バンダイナムコネクサス向け：[第1回](https://sankak.jp/event/bandainamco-nexus202111), [第2回](https://sankak.jp/event/bandainamco-nexus202201)
+- AI/DX勉強会の企画・実施：[発表資料](https://speakerdeck.com/daikichidaze/dxmian-qiang-hui)
 
 ## TMU-SFC（2010年4月〜2016年3月）
 
 - 科学実験教室を企画・運営する学生サークル
 - 代表として、イベント企画・運営を統括（2012年）
-  - イベントの企画・運営におけるリーダーやより長期的な視点における組織運営を経験
+  - 3日間で1,000人以上となる体験実験イベント
+  - 長期的な視点における組織運営を経験
 
 # 講演・受賞歴
 
