@@ -8,10 +8,10 @@
 |-----------|---------------------------|
 |名前       |**吉岡 拓真** (YOSHIOKA, Takuma)|
 |場所       |タイ王国 バンコク都|
-|note       |[@daikichidaze](https://note.com/daikichidaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
-|Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
+|note       |[@daikichidaze](https://note.com/daikichidaze)|
 |Zenn       |[@daikichidaze](https://zenn.dev/daikichidaze)|
+|Qiita      |[@DaikichiDaze](https://qiita.com/DaikichiDaze)|
 |GitHub     |[@daikichidaze](https://github.com/daikichidaze)|
 |LAPRAS     |[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
 
@@ -51,25 +51,36 @@
 # 職務経歴
 ## TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd. (2019年8月〜現在)
 
-**新規事業企画 / ソフトウェアエンジニア**
-- 新規事業企画部の立ち上げ
-  - 3名チーム（w/ タイ人）のマネージングプレーヤーとして従事
-  - 2年間で約15プロジェクトを推進
-    - 4件を実ビジネスとして立ち上げ
-  - 新たな顧客層の開拓
-    - ユーザ部門と密接に連携したIT活用を推進
-- 経営企画/事業企画としての企画業務
+|期間|職務|業務内容|チーム状況|
+|----|----|--------|----------|
+|2021年4月-現在|Business planning Office, Team Leader|1. ITシステムを活用した新規ビジネスサポートビジネスの立ち上げ 2.小チームのマネジメント及びチームビルディング|2名→3名|
+|2020年4月-2021年3月|New business deveplopment Division, Dvision manager Office|1.新規企画機能の拡大模索 2.ソフトウェア開発領域におけるコアバリューの構築|1名→2名|
+|2019年8月-2020年3月|New business deveplopment Division, Connected group|新規事業企画部としての基盤整備（New business development Framework）|1名（自分のみ）|
+
+
+### Team leader / 新規事業企画 / ソフトウェアエンジニア
+
+- **データ分析**関連プロジェクトへのアサインが期待されて新組織へ途中から参画
+  - しかし、実態としてはテーマありきの寄せ集めチームであったことから、**New business development Frameworkを用いて新規企画機能が無いことを訴えた**
+  - 翌年、新規企画に取り組むチームとしてDM Officeを立ち上げ
+- 企画機能として、社内外のパートナーと幅広くコミュニケーションをとりながら、数多くのプロジェクトを推進
+  - 上記活動の結果、ITシステムを活用したビジネス企画支援（**デジタライゼーション支援**）にニーズを見出し、チームメンバーと共に技術開発へ取り組んだ
+- New business development Divisionは解体され、自チームの活動のみがBusiness planning officeとして継続
+  - デジタライゼーション支援に関するプロジェクト推進・技術開発を継続しながら、他部とは異なる**組織文化**を構築するためのチームビルディングに邁進
+  - 新規事業企画だけでなく、**全社視点でのアプリケーション事業立ち上げ企画**や管理会計の企画など経営企画に近い業務も平行して取り組んだ
 
 
 ## 株式会社構造計画研究所（2016年4月〜2019年6月）
 
-**数理最適化エンジニア・コンサルタント**
-- システムエンジニア・データサイエンティスト・プロジェクトリーダー
-  - 3-4人程度のチームをプロジェクトリーダーとして率いて、数理最適化/データサイエンス等の技術を用いて顧客の課題を解決（1000万円以下・約20プロジェクト）
+### 数理最適化エンジニア・コンサルタント
+- <strong>プロジェクトリーダー・エンジニアリングコンサルタント・データサイエンティスト・ソフトウェアエンジニア</strong>
+  - <strong>オペレーションズ・リサーチ（数理最適化手法）</strong>を用いた顧客の課題解決に従事
+  - プロジェクトリーダーとして3-4人規模のプロジェクトを管理・推進（1000万円以下・約20プロジェクト）
+  - Python / C#を用いた数理最適化・シミュレーション・データ分析のツール開発・レポート作成
 - 部内教育担当者
     - 教育制度の立て直しにより、部全体におけるスキルの底上げを主導
       - 勉強会を複数企画（週１回）
-      - コードレビュー制度の再開・運用
+      - コードレビュー制度の企画・運用
 
 # 副業
 ## Flare (Thailand) Co.,Ltd.（2021年11月〜現在）
