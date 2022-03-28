@@ -41,7 +41,7 @@ My goal is create my career as a person to bridge between technology and busines
 ## WORK EXPERIENCE
 ### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
 
-**New business planner / Software engineer**
+**Team leader / New business planner / Software engineer**
 - Launch the New business development department
 - New business planning
 - Corporate planning
@@ -68,7 +68,7 @@ My goal is create my career as a person to bridge between technology and busines
 |Category|Items|
 |--------|-----|
 |Programming languages|Python / C# / VBA / SQL / Go|
-|NoCode|bubble.io|
+|NoCode|bubble.io / Adalo|
 |Cloud environment|AWS / GCP / Azure|
 |Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
 |Soft skills|Planning / Leadership / Facilitation|
