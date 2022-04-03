@@ -68,7 +68,7 @@ My goal is create my career as a person to bridge between technology and busines
 |Category|Items|
 |--------|-----|
 |Programming languages|Python / C# / VBA / SQL / Go|
-|NoCode|bubble.io / Adalo|
+|NoCode|bubble.io / Adalo / Integromat|
 |Cloud environment|AWS / GCP / Azure|
 |Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
 |Soft skills|Planning / Leadership / Facilitation|
@@ -114,9 +114,10 @@ My goal is create my career as a person to bridge between technology and busines
 
 ### Technical skills
 
-- Optimization skills
-- Data analysis skills
-- System development skills
+- Project management/lead
+- Mathmatical Optimization
+- Data analysis
+- Software development
 
 ---
 
