@@ -1,4 +1,4 @@
-# 吉岡 拓真 (YOSHIOKA, Takuma)
+# 吉岡 拓真
 
 [**English version**](index_en.md)
 
