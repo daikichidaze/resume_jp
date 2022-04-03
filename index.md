@@ -8,6 +8,7 @@ ter# 吉岡 拓真 (YOSHIOKA, Takuma)
 |-----------|---------------------------|
 |名前       |**吉岡 拓真** (YOSHIOKA, Takuma)|
 |場所       |タイ王国 バンコク都|
+|twitter    |[@daikichidaze](https://twitter.com/daikichidaze)|
 |SpeakerDeck|[@daikichidaze](https://speakerdeck.com/daikichidaze)|
 |note       |[@daikichidaze](https://note.com/daikichidaze)|
 |Zenn       |[@daikichidaze](https://zenn.dev/daikichidaze)|
@@ -140,6 +141,8 @@ ter# 吉岡 拓真 (YOSHIOKA, Takuma)
 |2016年|国際研究インターンシップ|8名8カ国のチームにて研究活動のインターンシップに参加/1.5ヶ月寝食を共にする|
 |1996年-2000年|米国|家族の都合により4年間在住/現地小学校の唯一のアジア人|
 
+---
+
 # 社外活動
 ## 和組DAO（2022年1月〜現在）
 
@@ -167,13 +170,6 @@ ter# 吉岡 拓真 (YOSHIOKA, Takuma)
 - 代表として、イベント企画・運営を統括（2012年）
   - 3日間で1,000人以上となる体験実験イベント
   - 長期的な視点における組織運営を経験
-
-# 講演・受賞歴
-
-- 2020年7月: [データラーニングギルド1周年LT](https://speakerdeck.com/daikichidaze/enziniazhi-nil-fei-enziniazhi-nizhuan-zhi-siteqi-duitabian-hua)
-- 2019年6月: プロジェクト表彰「ユニットプラン設計自動化システムの開発」
-- 2018年3月: 第65回数理社会学会大会 萌芽的セッション([ポスター発表](https://drive.google.com/file/d/1JmTXfzzNOiDlprru_fwQldBxXBKa1Rns/view?usp=sharing))
-- 2017年6月: 技術発表会 優秀賞「海運業界におけるビックデータ活用」
 
 ---
 # 人間性
