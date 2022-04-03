@@ -52,9 +52,9 @@ ter# 吉岡 拓真 (YOSHIOKA, Takuma)
 
 |期間|職務|業務内容|チーム状況|
 |----|----|--------|----------|
-|2021年4月-現在|Business planning Office, Team Leader|1.ITシステムを活用した新規ビジネスサポートビジネスの立ち上げ<br>2.小チームのマネジメント及びチームビルディング|2名→3名|
-|2020年4月-2021年3月|New business deveplopment Division, Dvision manager Office|1.新規企画機能の拡大模索<br>2.ソフトウェア開発領域におけるコアバリューの構築|1名→2名|
-|2019年8月-2020年3月|New business deveplopment Division, Connected group|新規事業企画部としての基盤整備（New business development Framework）|1名（自分のみ）|
+|2021年4月<br>-現在|Business planning Office,<br>Team Leader|1.ITシステムを活用した新規ビジネスサポートビジネスの立ち上げ<br>2.小チームのマネジメント及びチームビルディング|2名→3名|
+|2020年4月<br>-2021年3月|New business deveplopment Division,<br>Dvision manager Office|1.新規企画機能の拡大模索<br>2.ソフトウェア開発領域におけるコアバリューの構築|1名→2名|
+|2019年8月<br>-2020年3月|New business deveplopment Division,<br>Connected group|新規事業企画部としての基盤整備<br>（New business development Frameworkの構想・企画）|1名(自分のみ)|
 
 
 ### Team leader / 新規事業企画 / ソフトウェアエンジニア
