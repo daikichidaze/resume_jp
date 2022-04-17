@@ -8,13 +8,14 @@
 |---|-----|
 |Name|Takuma Yoshioka (吉岡 拓真)|
 |Place|Bangkok Thailand|
-|twitter|[@daikichidaz](https://twitter.com/daikichidaz)
-|LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)
+|Linkedin|[Takuma Yoshioka](https://www.linkedin.com/in/takuma-yoshioka/)|
+|twitter|[@daikichidaz](https://twitter.com/daikichidaz)|
+|LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)|
 |GitHub|[@daikichidaze](https://github.com/daikichidaze)|
 
 ## SUMMARY
 
-My goal is create my career as a person to bridge between technology and business. Particularly in the topics of **data scientist and business planner**. I have experience in both engineering and business positions.
+Leading **new business development** team with 6 years of experience in the information technology filed. Technical strengths in **data science** and **mathmarical optimization**. Taking balance between technology and business requirements.
 
 
 ### Launch the New business development division in Thailand branch
@@ -56,10 +57,10 @@ My goal is create my career as a person to bridge between technology and busines
 
 ## EDUCATION
 
-- M.A. (Chemistry) at Tokyo Metropolitan University,    March 2016
-  - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-  - Study the formation process of the early solar system by chemical analysis of meteorites
-  - https://www.nipr.ac.jp/symposium2014/program/abstract/OA_Yoshioka_00407_01.pdf
+- Master of Scienvce in Chemistry    March 2016<br>
+  - Tokyo Metropolitan University, Tokyo, Japan
+    - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
+    - Research: Formation process of the early solar system by chemical analysis of meteorites
 
 ---
 
@@ -71,7 +72,7 @@ My goal is create my career as a person to bridge between technology and busines
 |NoCode|bubble.io / Adalo / Integromat|
 |Cloud environment|AWS / GCP / Azure|
 |Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
-|Soft skills|Planning / Leadership / Facilitation|
+|Soft skills|Planning / Leadership / Problem-solving / Flexibility|
 
 ## CERTIFICATION
 
