@@ -1,22 +1,21 @@
-# Takuma Yoshioka
+# Takuma Yoshioka / 吉岡 拓真
 
 [**日本語版 (Japanese version)**](index.md)
 
 ## Basic infomation
 
-|Key|Value|
-|---|-----|
-|Name|Takuma Yoshioka (吉岡 拓真)|
-|Place|Bangkok Thailand|
-|Linkedin|[Takuma Yoshioka](https://www.linkedin.com/in/takuma-yoshioka/)|
-|twitter|[@daikichidaz](https://twitter.com/daikichidaz)|
-|LAPRAS|[Takuma Yoshioka](https://lapras.com/public/5AXIKYW)|
-|GitHub|[@daikichidaze](https://github.com/daikichidaze)|
+| Key      | Value                                                           |
+| -------- | --------------------------------------------------------------- |
+| Name     | Takuma Yoshioka (吉岡 拓真)                                     |
+| Place    | Bangkok Thailand                                                |
+| Linkedin | [Takuma Yoshioka](https://www.linkedin.com/in/takuma-yoshioka/) |
+| twitter  | [@daikichidaz](https://twitter.com/daikichidaz)                 |
+| LAPRAS   | [Takuma Yoshioka](https://lapras.com/public/5AXIKYW)            |
+| GitHub   | [@daikichidaze](https://github.com/daikichidaze)                |
 
 ## SUMMARY
 
 Leading **new business development** team with 6 years of experience in the information technology filed. Technical strengths in **data science** and **mathmarical optimization**. Taking balance between technology and business requirements.
-
 
 ### Launch the New business development division in Thailand branch
 
@@ -40,16 +39,19 @@ Leading **new business development** team with 6 years of experience in the info
 ---
 
 ## WORK EXPERIENCE
-### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd.,    Bangkok Thailand (August 2019 - Present)
+
+### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand (August 2019 - Present)
 
 **Team leader / New business planner / Software engineer**
+
 - Launch the New business development department
 - New business planning
 - Corporate planning
 
-### KOZO KEIKAKU ENGINEERING Inc.,    Tokyo Japan (April 2016 - June 2019)
+### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (April 2016 - June 2019)
 
 **Mathematical optimization engineer / consultant**
+
 - Project leader / Data Scientist / System Engineer
 - Educator in the department
   - I restructured the department's education system, which had been in a state of disarray.
@@ -57,7 +59,7 @@ Leading **new business development** team with 6 years of experience in the info
 
 ## EDUCATION
 
-- Master of Scienvce in Chemistry    March 2016<br>
+- Master of Scienvce in Chemistry March 2016`<br>`
   - Tokyo Metropolitan University, Tokyo, Japan
     - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
     - Research: Formation process of the early solar system by chemical analysis of meteorites
@@ -66,21 +68,21 @@ Leading **new business development** team with 6 years of experience in the info
 
 ## SKILLS
 
-|Category|Items|
-|--------|-----|
-|Programming languages|Python / C# / VBA / SQL / Go|
-|NoCode|bubble.io / Adalo / Integromat|
-|Cloud environment|AWS / GCP / Azure|
-|Technical topics|Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode|
-|Soft skills|Planning / Leadership / Problem-solving / Flexibility|
+| Category              | Items                                                                                                                       |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Programming languages | Python / C# / VBA / SQL / Go                                                                                                |
+| NoCode                | bubble.io / Adalo / Integromat                                                                                              |
+| Cloud environment     | AWS / GCP / Azure                                                                                                           |
+| Technical topics      | Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode |
+| Soft skills           | Planning / Leadership / Problem-solving / Flexibility                                                                       |
 
 ## CERTIFICATION
 
-|Name|Year|
-|------|------|
-|TOEIC Listening & Reading Score 805|2019|
-|Associate Professional Engineer (Industrial Engineering)|2017|
-|Japan Information-Technology Engineers Examination (Applied Information Technology)|2016|
+| Name                                                                                | Year |
+| ----------------------------------------------------------------------------------- | ---- |
+| TOEIC Listening & Reading Score 805                                                 | 2019 |
+| Associate Professional Engineer (Industrial Engineering)                            | 2017 |
+| Japan Information-Technology Engineers Examination (Applied Information Technology) | 2016 |
 
 ## LANGUAGE
 
@@ -91,6 +93,7 @@ Leading **new business development** team with 6 years of experience in the info
   - Lived in U.S.: 1996 - 2000
 
 ## External activities
+
 ### DataLearningGuild (2020 - Present)
 
 - Online community of Japanese data scientists
@@ -106,6 +109,7 @@ Leading **new business development** team with 6 years of experience in the info
   - Experience in leadership and longer-term organizational management
 
 ## PERSONAL PROFILE STATEMENT
+
 ### Planning ability
 
 - Ability to plan a business, events or projects based on an idea.
