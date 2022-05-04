@@ -6,12 +6,12 @@
 
 | Key      | Value                                                           |
 | -------- | --------------------------------------------------------------- |
-| Name     | Takuma Yoshioka (吉岡 拓真)                                     |
-| Place    | Bangkok Thailand                                                |
+| Name     | **Takuma Yoshioka** (吉岡 拓真)                                 |
+| Place    | Bangkok, Thailand                                               |
 | Linkedin | [Takuma Yoshioka](https://www.linkedin.com/in/takuma-yoshioka/) |
 | twitter  | [@daikichidaz](https://twitter.com/daikichidaz)                 |
-| LAPRAS   | [Takuma Yoshioka](https://lapras.com/public/5AXIKYW)            |
 | GitHub   | [@daikichidaze](https://github.com/daikichidaze)                |
+| LAPRAS   | [Takuma Yoshioka](https://lapras.com/public/5AXIKYW)            |
 
 ## SUMMARY
 
