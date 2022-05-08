@@ -13,6 +13,7 @@
 | GitHub   | [@daikichidaze](https://github.com/daikichidaze)                |
 
 ## PROFILE
+**Data scientist & Business planning manager**
 
 - 6 years of data science and software development, including planning of new digital service
 - Established "Business planning office” and led the software development business and corporate business planning as a manager
@@ -68,7 +69,8 @@
 
 - M.S. in Chemistry, Tokyo Metropolitan University, Tokyo, 2016
    - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-   - Research: Formation process of the early solar system by chemical analysis of meteorites
+   - Research title: Formation process of the early solar system by chemical analysis of meteorites
+   - Obtained A grades for all classes in master course
 
 ## LANGUAGE
 
