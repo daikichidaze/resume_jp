@@ -71,6 +71,8 @@
    - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
    - Research title: Formation process of the early solar system by chemical analysis of meteorites
    - Obtained A grades for all classes in master course
+- Misasa International Student Intern Program (MISIP) 2014
+   - Institute for Planetary Materials, Okayama University, Tottori
 
 ## LANGUAGE
 
