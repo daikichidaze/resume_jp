@@ -11,30 +11,14 @@
 | Linkedin | [Takuma Yoshioka](https://www.linkedin.com/in/takuma-yoshioka/) |
 | twitter  | [@daikichidaz](https://twitter.com/daikichidaz)                 |
 | GitHub   | [@daikichidaze](https://github.com/daikichidaze)                |
-| LAPRAS   | [Takuma Yoshioka](https://lapras.com/public/5AXIKYW)            |
 
-## SUMMARY
+## PROFILE
 
-Leading **new business development** team with 6 years of experience in the information technology filed. Technical strengths in **data science** and **mathmarical optimization**. Taking balance between technology and business requirements.
-
-### Launch the New business development division in Thailand branch
-
-- Worked in launching the **New business planning function** at Toyota Tsusho's overseas affiliate.
-  - There was no new business planning function established when I joined.
-  - I built a **new framework** to be its own process in the company.
-- Following new businesses were launched based on this framework.
-  - Productivity improvement service for vehicle R&D designers
-  - Microsoft Office 365 education service
-  - Chatbot implementation to help desk business
-- I led the planning and execution of not only new businesses, but also as a **corporate planner**.
-  - Consideration of transformation from existing network business to **software business**.
-  - Sales flow standardization and systemization planning
-
-### Engineering consulting as a mathematical optimization engineer
-
-- Consulting, data analysis, system development and project leader using technology of operations research and mathematical optimization.
-  - Carry out the development of mathematical model, simulator, data analysis tools by using Python, C#.
-  - Lead the project as project leader in numerous projects (~10 million JPY / 20 projects）
+- 6 years of data science and software development, including planning of new digital service
+- Established “New business development” group and lead the software development business as a manager
+- Experienced in both mathematical optimization methods, through linear programming formulation and heuristic algorithm development, including project management
+- Able to lead and collaborate with multicultural teams in English; worked in Thailand for 3 years, remotely collaborate with Vietnamese engineers
+- Strong analytical, execution and leadership skills; excellent balance between business and technology
 
 ---
 
@@ -59,7 +43,7 @@ Leading **new business development** team with 6 years of experience in the info
 
 ## EDUCATION
 
-- Master of Scienvce in Chemistry March 2016`<br>`
+- Master of Scienvce in Chemistry March 2016<br>
   - Tokyo Metropolitan University, Tokyo, Japan
     - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
     - Research: Formation process of the early solar system by chemical analysis of meteorites
