@@ -56,11 +56,12 @@
 
 ## CERTIFICATION
 
-| Name                                                                                | Year |
-| ----------------------------------------------------------------------------------- | ---- |
-| TOEIC Listening & Reading Score 805                                                 | 2019 |
-| Associate Professional Engineer (Industrial Engineering)                            | 2017 |
-| Japan Information-Technology Engineers Examination (Applied Information Technology) | 2016 |
+| Name | Year |
+| -----|------|
+| TOEIC Listening & Reading Score 805 | 2019 |
+| Associate Professional Engineer (Industrial Engineering) | 2017 |
+| Certified Applied Information Technology Engineer | 2016 |
+| Certified Hazardous Materials Officer (Class II)|2009|
 
 
 ---
@@ -73,6 +74,7 @@
    - Obtained A grades for all classes in master course
 - Misasa International Student Intern Program (MISIP) 2014
    - Institute for Planetary Materials, Okayama University, Tottori
+   - Mineralogical & chemical analysis of Chelyabinsk meteorite
 
 ## LANGUAGE
 
@@ -98,22 +100,6 @@
 - A student club that plans and operates a science experiment class.
 - Chief at 2012
   - Experience in leadership and longer-term organizational management
-
-## PERSONAL PROFILE STATEMENT
-
-### Planning ability
-
-- Ability to plan a business, events or projects based on an idea.
-  - Ability to capture the essence and communicate it to others.
-  - Ability to promote and execute the planned project
-  - Communication skills to involve members in planning
-
-### Technical skills
-
-- Project management/lead
-- Mathmatical Optimization
-- Data analysis
-- Software development
 
 ---
 
