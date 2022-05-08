@@ -15,24 +15,34 @@
 ## PROFILE
 
 - 6 years of data science and software development, including planning of new digital service
-- Established “New business development” group and lead the software development business as a manager
+- Established "Business planning office” and led the software development business and corporate business planning as a manager
 - Experienced in both mathematical optimization methods, through linear programming formulation and heuristic algorithm development, including project management
 - Able to lead and collaborate with multicultural teams in English; worked in Thailand for 3 years, remotely collaborate with Vietnamese engineers
-- Strong analytical, execution and leadership skills; excellent balance between business and technology
+- Strong analytical, execution and leadership skills; **excellent balance between business and technology** with high flexibility
+
+## TECHNICAL EXPERTISE
+
+|Category|Items|
+|--------|-----|
+|Programming languages| Python, C#, VBA, SQL, Go|
+|NoCode|bubble.io, Adalo, Integromat, ServiceNow|
+|Cloud environment|AWS, GCP, Azure|
+|Operations research|Mathematical optimization, Heuristic technique, pulp, Discrete event simulation, Scheduling, Network analysis|
+|Data science|Hypothesis verification, Reporting, Visualization, Machine learning|
 
 ---
 
-## WORK EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand (August 2019 - Present)
+### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand (2019 to Present)
 
-**Team leader / New business planner / Software engineer**
+**Manager / New business planner / Software engineer**
 
 - Launch the New business development department
 - New business planning
 - Corporate planning
 
-### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (April 2016 - June 2019)
+### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
 **Mathematical optimization engineer / consultant**
 
@@ -41,24 +51,7 @@
   - I restructured the department's education system, which had been in a state of disarray.
     - There was an urgent need to improve the skills of junior members because of internal resource transfers.
 
-## EDUCATION
-
-- Master of Scienvce in Chemistry March 2016<br>
-  - Tokyo Metropolitan University, Tokyo, Japan
-    - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-    - Research: Formation process of the early solar system by chemical analysis of meteorites
-
 ---
-
-## SKILLS
-
-| Category              | Items                                                                                                                       |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Programming languages | Python / C# / VBA / SQL / Go                                                                                                |
-| NoCode                | bubble.io / Adalo / Integromat                                                                                              |
-| Cloud environment     | AWS / GCP / Azure                                                                                                           |
-| Technical topics      | Operations research / Mathematical optimization / Simulation / Data analysis / Network analysis / Machine learning / NoCode |
-| Soft skills           | Planning / Leadership / Problem-solving / Flexibility                                                                       |
 
 ## CERTIFICATION
 
@@ -68,6 +61,15 @@
 | Associate Professional Engineer (Industrial Engineering)                            | 2017 |
 | Japan Information-Technology Engineers Examination (Applied Information Technology) | 2016 |
 
+
+---
+
+## EDUCATION
+
+- M.S. in Chemistry, Tokyo Metropolitan University, Tokyo, 2016
+   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
+   - Research: Formation process of the early solar system by chemical analysis of meteorites
+
 ## LANGUAGE
 
 - Japanese: Naitive
@@ -76,6 +78,7 @@
   - Working in Thailand: 2019 - Present
   - Lived in U.S.: 1996 - 2000
 
+---
 ## External activities
 
 ### DataLearningGuild (2020 - Present)
