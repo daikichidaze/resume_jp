@@ -17,10 +17,10 @@
 ### Data scientist & Business planning manager
 
 - <strong>6 years of data science and software development</strong>, including planning of new digital service
-- Established "Business planning office” and **led establishment of the software development business** and business planning as a manager
+- Headed the establishment of the application development business in the company as a manager of new team
 - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management
 - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia
-- Strong analytical and execution skills + leadership ; **excellent balance between business and technology** with high flexibility
+- Strong analytical and execution skills with leadership ; **excellent balance between business and technology** with high flexibility
 
 ## TECHNICAL EXPERTISE
 
