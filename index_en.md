@@ -103,7 +103,7 @@ _KEY projects:_
 
 ---
 
-## Community Invovement
+## COMMUNITY INVOLVEMENT
 
 ### Wagumi DAO (2022 - Present)
 
