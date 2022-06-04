@@ -13,23 +13,25 @@
 | GitHub   | [@daikichidaze](https://github.com/daikichidaze)                |
 
 ## PROFILE
-**Data scientist & Business planning manager**
 
-- 6 years of data science and software development, including planning of new digital service
-- Established "Business planning office” and led the software development business and corporate business planning as a manager
-- Experienced in both mathematical optimization methods, through linear programming formulation and heuristic algorithm development, including project management
-- Able to lead and collaborate with multicultural teams in English; worked in Thailand for 3 years, remotely collaborate with Vietnamese engineers
-- Strong analytical, execution and leadership skills; **excellent balance between business and technology** with high flexibility
+### Data scientist & Business planning manager
+
+- <strong>6 years of data science and software development</strong>, including planning of new digital service
+- Established "Business planning office” and **led establishment of the software development business** and business planning as a manager
+- Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management
+- Able to **lead and collaborate** with multicultural teams in English; worked with engineers in Southeast Asia
+- Strong analytical and execution skills + leadership ; **excellent balance between business and technology** with high flexibility
 
 ## TECHNICAL EXPERTISE
 
-|Category|Items|
-|--------|-----|
-|Programming languages| Python, C#, VBA, SQL, Go|
-|NoCode|bubble.io, Adalo, Integromat, ServiceNow|
-|Cloud environment|AWS, GCP, Azure|
-|Operations research|Mathematical optimization, Heuristic technique, pulp, Discrete event simulation, Scheduling, Network analysis|
-|Data science|Hypothesis verification, Reporting, Visualization, Machine learning|
+| Category              | Items                                                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Programming languages | Python, C#, VBA, SQL, Go                                                                                      |
+| Library/Frameworks    | pandas, pulp, networkx, sklearn, simpy, flask, .Net                                                           |
+| NoCode                | bubble.io, Adalo, Integromat, ServiceNow                                                                      |
+| Cloud environment     | AWS, GCP, Azure                                                                                               |
+| Operations research   | Mathematical optimization, Heuristic technique, pulp, Discrete event simulation, Scheduling, Network analysis |
+| Data science          | Hypothesis verification, Data processing, Reporting, Visualization, Machine learning                          |
 
 ---
 
@@ -45,7 +47,7 @@
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
-**Mathematical optimization engineer / consultant**
+**Mathematical optimization engineer / Consultant**
 
 - Project leader / Data Scientist / System Engineer
 - Educator in the department
@@ -56,25 +58,24 @@
 
 ## CERTIFICATION
 
-| Name | Year |
-| -----|------|
-| TOEIC Listening & Reading Score 805 | 2019 |
+| Name                                                     | Year |
+| -------------------------------------------------------- | ---- |
+| TOEIC Listening & Reading Score 805                      | 2019 |
 | Associate Professional Engineer (Industrial Engineering) | 2017 |
-| Certified Applied Information Technology Engineer | 2016 |
-| Certified Hazardous Materials Officer (Class II)|2009|
-
+| Certified Applied Information Technology Engineer        | 2016 |
+| Certified Hazardous Materials Officer (Class II)         | 2009 |
 
 ---
 
 ## EDUCATION
 
-- M.S. in Chemistry, Tokyo Metropolitan University, Tokyo, 2016
-   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-   - Research title: Formation process of the early solar system by chemical analysis of meteorites
-   - Obtained A grades for all classes in master course
+- <strong>M.S. in Chemistry, Tokyo Metropolitan University, Tokyo, 2016</strong>
+  - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
+  - Research title: Formation process of the early solar system by chemical analysis of meteorites
+  - Obtained A grades for all classes in master course
 - Misasa International Student Intern Program (MISIP) 2014
-   - Institute for Planetary Materials, Okayama University, Tottori
-   - Mineralogical & chemical analysis of Chelyabinsk meteorite
+  - Institute for Planetary Materials, Okayama University, Tottori
+  - Mineralogical & chemical analysis of Chelyabinsk meteorite
 
 ## LANGUAGE
 
@@ -85,6 +86,7 @@
   - Lived in U.S.: 1996 - 2000
 
 ---
+
 ## External activities
 
 ### DataLearningGuild (2020 - Present)
@@ -100,4 +102,3 @@
 - A student club that plans and operates a science experiment class.
 - Chief at 2012
   - Experience in leadership and longer-term organizational management
-
