@@ -42,19 +42,18 @@
 **Manager / New business planner / Software engineer**
 _Key projects:_
 
-- <strong>Lauch New business planning process in the company</strong>. Appealed for lack of new planning function and planned a new framework. Started next year as a single team by myself, expanding to a total of 3 members in 2 years (local members in Thailand).
-- <strong>Developed digitalization support business</strong>. Started a digitization support business applying No code tools with few software engineers. Started IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB.
+- <strong>Lauch New business planning process in the company.</strong> Proposed for lack of new planning function and planned a framework for it. Started next year as a **new single team** by myself, expanding to a total of 3 members in 2 years (local members in Thailand).
+- <strong>Developed digitalization support business.</strong> Started a digitization support business applying No code tools with few software engineers. Started IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
 **Mathematical optimization engineer / Consultant**
+Worked as Project manager / Data Scientist / System Engineer / Educator
 
-- Project leader / Data Scientist / System Engineer
-- Educator in the department
-  - I restructured the department's education system, which had been in a state of disarray.
-    - There was an urgent need to improve the skills of junior members because of internal resource transfers.
+_KEY projects_
 
----
+- <strong>Simulator development and data analysis for MaaS planning.</strong> Development of a discrete event simulator for preliminary verification of new mobility service planning (python/simpy). Analyzed and reported simulation results. As project manager, managed progress, quality control, and client negotiation for each phase of the project, which was worth 40M JPY in 3 years.
+- <strong>Automation of floor plan design in housing.</strong> Development of automated design algorithms using heuristic techniques (C#). Collaborated with a major Japanese construction company to explore new possibilities for applications of mathematical optimization technology. Horizontal deployment to other companies in the industry was also considered, resulting in a 2 year, 30M JPY project.
 
 ## CERTIFICATION
 
