@@ -48,7 +48,7 @@ _Key projects:_
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
-**Mathematical optimization engineer / Consultant**
+**Mathematical optimization engineer / Consultant**<br>
 Worked as Project manager / Data Scientist / System Engineer / Educator
 
 _KEY projects:_
