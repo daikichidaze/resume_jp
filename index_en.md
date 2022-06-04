@@ -43,8 +43,8 @@
 
 _Key projects:_
 
-- <strong>Lauched New business planning process in the company.</strong> Proposed for lack of new planning function and planned a framework for it. Started next year as a **new single team** by myself, expanding to a total of 3 members in 2 years (local members in Thailand).
-- <strong>Developed digitalization support business.</strong> Started a digitization support business applying No code tools with few software engineers. Discovered IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
+- <strong>Lauched New business planning process in the company.</strong> Proposed for lack of new planning function and designed a new business development framework. Started next year as a **new single team**, expanding to a total of 3 members in 2 years (local members in Thailand).
+- <strong>Developed digitalization support business.</strong> Created a digitization support business applying No-code tools with few software engineers. Discovered IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
