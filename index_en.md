@@ -107,16 +107,15 @@ _KEY projects:_
 
 ### Wagumi DAO (2022 - Present)
 
-### DataLearningGuild (2020 - Present)
+- Contributed to Decentralized autonomous organization promoting Web 3.0 projects from Japan. revitalized and engaged in management of the Discord community.
 
-- Online community of Japanese data scientists
-- Carry out the projects in side of the community
-  - Nertwork analysis of slack conversation data：[doc](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi)
-  - Develop a knowledge graph (SemanticMediaWiki)
-  - User searching project (Develop GCP environment)
+### Data Learning Guild (2020 - Present)
+
+- Contributed to an online community of Japanese data scientists. Promoting multiple projects improved various skills.
+  - Nertwork analysis of slack conversation data：[ppt](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi).
+  - Knowledge graph development using SemanticMediaWiki.
+  - Crowd funding project planned to launch a service to solve their challenges in learning data science.
 
 ### TMU-SFC (2010 - 2016)
 
-- A student club that plans and operates a science experiment class.
-- Chief at 2012
-  - Experience in leadership and longer-term organizational management
+- Designing and operating science experiment classes for children. Represented in 2021. Experienced in leadership and long-term organizational management ideas.
