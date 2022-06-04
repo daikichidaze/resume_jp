@@ -40,10 +40,10 @@
 ### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand (2019 to Present)
 
 **Manager / New business planner / Software engineer**
+_Key projects:_
 
-- Launch the New business development department
-- New business planning
-- Corporate planning
+- <strong>Lauch New business planning process in the company</strong>. Appealed for lack of new planning function and planned a new framework. Started next year as a single team by myself, expanding to a total of 3 members in 2 years (local members in Thailand).
+- <strong>Developed digitalization support business</strong>. Started a digitization support business applying No code tools with few software engineers. Started IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB.
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
