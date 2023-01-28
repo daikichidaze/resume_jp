@@ -2,7 +2,7 @@
 
 [**日本語版 (Japanese version)**](index.md)
 
-## Basic infomation
+## Basic information
 
 | Key      | Value                                                           |
 | -------- | --------------------------------------------------------------- |
@@ -17,7 +17,7 @@
 ### Data scientist & Business planning manager
 
 - <strong>6 years of data science and software development</strong>, including planning of new digital service
-- Headed the establishment of the application development business in the company as a manager of new team
+- Headed the establishment of the application development business in the company as a manager of the new team
 - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management
 - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia
 - Strong analytical and execution skills with leadership ; **excellent balance between business and technology** with high flexibility
@@ -43,8 +43,8 @@
 
 _Key projects:_
 
-- <strong>Launched New business planning process in the company.</strong> Proposed for lack of new planning function and designed a new business development framework. Started next year as a **new single team**, expanding to a total of 3 members in 2 years (local members in Thailand).
-- <strong>Developed digitalization support business.</strong> Created a digitization support business applying No-code tools with few software engineers. Discovered IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
+- <strong>Launched a New business planning process in the company.</strong> Proposed for lack of new planning function and designed a new business development framework. Started next year as a **new single team**, expanding to a total of 3 members in 2 years (local members in Thailand).
+- <strong>Developed digitalization support business.</strong> Created a digitization support business applying No-code tools with a few software engineers. Discovered IT consultation service by communicating directly with end-users from a neutral standpoint. Completed more than 5 projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
 
 ### KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan (2016 to 2019)
 
@@ -53,8 +53,8 @@ Worked as Project manager / Data Scientist / System Engineer / Educator
 
 _KEY projects:_
 
-- <strong>Simulator development and data analysis for MaaS planning.</strong> Development of a discrete event simulator for preliminary verification of new mobility service planning (python/simpy). Analyzed and reported simulation results. As project manager, managed progress, quality control, and client negotiation for each phase of the project, which was worth 40M JPY in 3 years.
-- <strong>Automation of floor plan design in housing.</strong> Development of automated design algorithms using heuristic techniques (C#). Collaborated with a major Japanese construction company to explore new possibilities for applications of mathematical optimization technology. Horizontal deployment to other companies in the industry was also considered, resulting in a 2 year, 30M JPY project.
+- <strong>Simulator development and data analysis for MaaS planning.</strong> Development of a discrete event simulator for preliminary verification of new mobility service planning (python/simpy). Analyzed and reported simulation results. As a project manager, managed progress, quality control, and client negotiation for each phase of the project, which was worth 40M JPY in 3 years.
+- <strong>Automation of floor plan design in housing.</strong> Development of automated design algorithms using heuristic techniques (C#). Collaborated with a major Japanese construction company to explore new possibilities for applications of mathematical optimization technology. Horizontal deployment to other companies in the industry was also considered, resulting in a 2-year, 30M JPY project.
 
 ## ADDITIONAL EXPERIENCES
 
@@ -62,7 +62,7 @@ _KEY projects:_
 
 **Project manager of AI function development**
 
-- <strong>Algorithm development for detection of driving behavior events using smartphone sensor data.</strong> Lead technical direction in algorithm development. Collaborated with Vietnamese engineers on a full remote and part time basis.
+- <strong>Algorithm development for detection of driving behavior events using smartphone sensor data.</strong> Lead technical direction in algorithm development. Collaborated with Vietnamese engineers on a fully remote and part-time basis.
 
 ### Data Learning Inc., Tokyo Japan (2021 to Present)
 
@@ -88,33 +88,33 @@ _KEY projects:_
 - <strong>M.S. in Chemistry, Tokyo Metropolitan University, Tokyo, 2016</strong>
   - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
   - Research title: Formation process of the early solar system by chemical analysis of meteorites
-  - Obtained "A" grades for all classes in master course
+  - Obtained "A" grades for all classes in the master course
 - Misasa International Student Intern Program (MISIP) 2014
   - Institute for Planetary Materials, Okayama University, Tottori
-  - Mineralogical & chemical analysis of Chelyabinsk meteorite
+  - Mineralogical & chemical analysis of the Chelyabinsk meteorite
 
 ## LANGUAGE
 
-- Japanese: Naitive
+- Japanese: Native
 - English: Business level
   - TOEIC Listening & Reading Score 805
   - Working in Thailand: 2019 - Present
-  - Lived in U.S.: 1996 - 2000
+  - Lived in the U.S.: 1996 - 2000
 
 ---
 
 ## COMMUNITY INVOLVEMENT
 
-### Wagumi DAO (2022 - Present)
+### Wagumi DAO (2022)
 
-- Contributed to Decentralized autonomous organization promoting Web 3.0 projects from Japan. revitalized and engaged in management of the Discord community.
+- Contributed to a Decentralized autonomous organization promoting Web 3.0 projects from Japan. Revitalized and engaged in the management of the Discord community.
 
 ### Data Learning Guild (2020 - Present)
 
 - Contributed to an online community of Japanese data scientists. Promoting multiple projects improved various skills.
   - Nertwork analysis of slack conversation data：[ppt](https://speakerdeck.com/daikichidaze/slacknetutowakufen-xi).
   - Knowledge graph development using SemanticMediaWiki.
-  - Crowd funding project planned to launch a service to solve their challenges in learning data science.
+  - Crowdfunding project planned to launch a service to solve their challenges in learning data science.
 
 ### TMU-SFC (2010 - 2016)
 
