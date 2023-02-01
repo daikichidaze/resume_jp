@@ -14,7 +14,7 @@
 
 ## PROFILE
 
-### Data scientist & Business planning manager
+### Data scientist & New business development manager
 
 - <strong>6 years of data science and software development</strong>, including planning of new digital service
 - Headed the establishment of the application development business in the company as a manager of the new team
