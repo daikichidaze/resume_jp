@@ -1,6 +1,6 @@
 # 吉岡 拓真 / Takuma Yoshioka
 
-[**English version**](index_en.md)
+[**English version**](en.md)
 
 # 基本情報
 
