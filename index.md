@@ -1,6 +1,6 @@
 # 吉岡 拓真 / Takuma Yoshioka
 
-[**English version**](en.md)
+[**English version**](https://daikichidaze.github.io/resume/)
 
 # 基本情報
 

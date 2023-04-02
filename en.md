@@ -79,7 +79,6 @@ _KEY projects:_
 | TOEIC Listening & Reading Score 805                      | 2019 |
 | Associate Professional Engineer (Industrial Engineering) | 2017 |
 | Certified Applied Information Technology Engineer        | 2016 |
-| Certified Hazardous Materials Officer (Class II)         | 2009 |
 
 ---
 
