@@ -8,7 +8,6 @@
 | ----------- | ----------------------------------------------------- |
 | 名前        | **吉岡 拓真** (YOSHIOKA, Takuma)                      |
 | 場所        | タイ王国 バンコク都                                   |
-| twitter     | [@daikichidaze](https://twitter.com/daikichidaze)     |
 | SpeakerDeck | [@daikichidaze](https://speakerdeck.com/daikichidaze) |
 | note        | [@daikichidaze](https://note.com/daikichidaze)        |
 | Zenn        | [@daikichidaze](https://zenn.dev/daikichidaze)        |
