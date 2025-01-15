@@ -54,10 +54,10 @@
 
 | 期間                          | 職務                                                         | 業務内容                                                                                                                                                                                          | チーム状況     |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| 2023 年 4 月<br>-現在         | Business Development,<br>GroupLeader                         | 前年度までの成果が評価され、自チームが Group へ昇格（課長相当）<br>継続的なデジタライゼーション支援と、DX 推進体制への支援強化                                                                    | 4 名           |
+| 2023 年 4 月<br>-現在         | Business Development,<br>GroupLeader (課長級)                | 前年度までの成果が評価され、自チームが Group へ昇格（課長相当）<br>継続的なデジタライゼーション支援と、DX 推進体制への支援強化                                                                    | 4 名           |
 | 2021 年 4 月<br>-2023 年 3 月 | Business planning Office,<br>TeamLeader                      | 1.IT システムを活用した新規ビジネスサポートビジネスの立ち上げ<br>2.小チームのマネジメント及びチームビルディング<br>3.ソリューション営業組織の立ち上げと営業・エンジニアメンバー双方のマネジメント | 2 名 →4 名     |
-| 2020 年 4 月<br>-2021 年 3 月 | Newbusiness deveplopment Division,<br>Dvision manager Office | 1.新規企画機能の拡大模索<br>2.ソフトウェア開発領域におけるコアバリューの構築                                                                                                                      | 1 名 →2 名     |
-| 2019 年 8 月<br>-2020 年 3 月 | New business deveplopment Division,<br>Connected group       | 新規事業企画部としての基盤整備<br>(New business development Framework の構想・企画)                                                                                                               | 1 名(自分のみ) |
+| 2020 年 4 月<br>-2021 年 3 月 | New business development Division,<br>Dvision manager Office | 1.新規企画機能の拡大模索<br>2.ソフトウェア開発領域におけるコアバリューの構築                                                                                                                      | 1 名 →2 名     |
+| 2019 年 8 月<br>-2020 年 3 月 | New business development Division,<br>Connected group        | 新規事業企画部としての基盤整備<br>(New business development Framework の構想・企画)                                                                                                               | 1 名(自分のみ) |
 
 ### Group leader / 新規事業企画 / ソフトウェアエンジニア
 
