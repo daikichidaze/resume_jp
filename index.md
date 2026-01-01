@@ -70,22 +70,33 @@
 
 ## 職務経歴（正社員）
 ### ISS Resolution Ltd.（バンコク） / Digital Solutions Strategy Consultant
-- 2024-現在（TOYOTA TSUSHO SYSTEMS向け業務委託）
-- デジタルソリューション投資・新規サービス企画支援、ITコンサルモデルへの転換推進
+- 2024年-現在（TOYOTA TSUSHO SYSTEMS向け業務委託）
+- デジタルソリューション投資・新規サービス企画支援、ITコンサルモデルへの転換推進（事業企画）
 
-### TOYOTA TSUSHO SYSTEMS (THAILAND)（バンコク） / Head of Digital Solutions & New Business
-- 2019-2024
-- 新規事業企画部を立ち上げ（1→5名）、デジタライゼーション支援/ITコンサルをサービス化、アプリ事業の企画・推進
+### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd.（バンコク） / Head of Digital Solutions & New Business
+- 2019年-2024年
+- 新規事業企画部を立ち上げ（1→5名）、デジタライゼーション支援/ITコンサルをサービス化、アプリケーション開発事業の企画・推進
 
-### 株式会社構造計画研究所（東京） / Mathematical Optimization Engineer / Consultant
-- 2016-2019
+### 株式会社構造計画研究所（東京） / 数理最適化エンジニア
+- 2016年-2019年
 - 数理最適化アルゴリズム開発・シミュレーション・データ分析。PLとして20件規模を並行推進
 
-## 独立・副業（業務委託）
-- AI Consultant, Enterprise Spec-Driven Development（AI Training Inc., 2025-）: SDD導入/研修企画・プロジェクト推進
-- Content Director, Generative AI Training（Data Learning Inc., 2024）: 企業向けリスキリング講座のコンテンツ制作・デリバリー（約1000スライド/36時間）
-- Data Science Mentor（Data Learning Inc., 2021-2024）: 1:1/グループでの学習支援とキャリア伴走
-- Project Manager, AI Feature Development（Flare Thailand, 2021-2023）: スマホセンサーデータによる運転挙動検出のAI開発、リモートチームをリード
+## フリーランス・副業（業務委託）
+### AI Training Inc. / AI Consultant, Enterprise Spec-Driven Development
+- 2025-現在
+- SDD導入支援、研修企画・デリバリー、プロジェクト推進
+
+### Data Learning Inc. / Content Director, Generative AI Training
+- 2024
+- 企業向けリスキリング講座のコンテンツ制作・デリバリー（約1000スライド/36時間）
+
+### Data Learning Inc. / Data Science Mentor
+- 2021-2024
+- 1:1/グループでの学習支援とキャリア伴走
+
+### Flare Thailand / Project Manager, AI Feature Development
+- 2021-2023
+- スマホセンサーデータによる運転挙動検出のAI開発、ベトナムチームとフルリモートで推進
 
 ## 価値観 / 志向・今後やりたいこと
 - 仕事観（Vision/Mission）: 「内発的独自性による持続的な世界観の構築」/ 信念と法則に基づき課題を捉え、構造化し、表現して価値を出す
