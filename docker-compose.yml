@@ -1,0 +1,16 @@
+services:
+  jekyll:
+    container_name: resume-jp-jekyll
+    image: jekyll/builder:4.0
+    command: >
+      sh -c "
+        (bundle check || bundle install --jobs 4 --retry 3) &&
+        bundle exec jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0 --port 4000
+      "
+    volumes:
+      - .:/srv/jekyll:Z
+    environment:
+      JEKYLL_VERSION: 3.8
+      BUNDLE_PATH: /usr/local/bundle
+    ports:
+      - 4000:4000

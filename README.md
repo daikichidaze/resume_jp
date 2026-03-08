@@ -18,8 +18,21 @@
 
 ## ローカルで確認（任意）
 
-Jekyll が使える環境で以下を実行します。
+### Docker Compose を使う
+
+Docker と Compose plugin がある環境で以下を実行します。
 
 ```bash
+docker compose up
+```
+
+ブラウザで `http://localhost:4000` を開いて確認できます。
+
+### Ruby で直接実行する
+
+Ruby と Bundler がある環境で以下を実行します。
+
+```bash
+bundle install
 bundle exec jekyll serve
 ```
