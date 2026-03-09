@@ -1,10 +1,39 @@
-theme: jekyll-theme-cayman
-title: "吉岡拓真 / Takuma Yoshioka"
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "with_toc_data"]
-contact_links:
-  - name: Facebook
-    url: https://www.facebook.com/daikichi.daze
-    icon: facebook
-author: dkch.yoshioka.t@gmail.com
+title: "Takuma Yoshioka | Skill sheet"
+description: "吉岡拓真 事業構想の構造化、データ/AI活用、システム企画・実装支援"
+minimal_mistakes_skin: "air"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+markdown: kramdown
+kramdown:
+  input: GFM
+author:
+  name: "Takuma Yoshioka"
+  bio: "Decision Design / Data & AI Strategy Lead"
+  location: "Bangkok, Thailand"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dkch.yoshioka.t@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/takuma-yoshioka"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/daikichidaze"
+    - label: "提供価値"
+      icon: "fas fa-fw fa-angle-right"
+      url: "#value"
+    - label: "専門領域"
+      icon: "fas fa-fw fa-angle-right"
+      url: "#domains"
+    - label: "技術スタック"
+      icon: "fas fa-fw fa-angle-right"
+      url: "#stack"
+    - label: "実績ハイライト"
+      icon: "fas fa-fw fa-angle-right"
+      url: "#highlights"
+    - label: "職務経歴"
+      icon: "fas fa-fw fa-angle-right"
+      url: "#career"

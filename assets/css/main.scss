@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+html {
+  font-size: 16px;
+}
+
+.page__content {
+  font-size: 1.03em;
+}
+
+.page__content p,
+.page__content li,
+.page__content td,
+.page__content th {
+  font-size: 1em;
+}
+
+.page__content table {
+  font-size: 0.98em;
+}
+
+.page__content h2,
+.page__content h3 {
+  margin-top: 1.8em;
+}
+
+.page__title {
+  font-size: 2em;
+}
+
+.author__name {
+  font-size: 1.12em;
+}
+
+.author__bio,
+.author__urls {
+  font-size: 0.94em;
+}
+
+.author__urls li:nth-child(5) {
+  border-top: 1px solid #d5dce5;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+}
+
+@media (min-width: 64em) {
+  .page {
+    width: calc(100% - 200px);
+    padding-inline-end: 100px;
+  }
+}
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 300px);
+    padding-inline-end: 150px;
+  }
+}
