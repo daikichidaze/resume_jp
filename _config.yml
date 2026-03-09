@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Takuma Yoshioka"
+title: "吉岡拓真 / Takuma Yoshioka"
 markdown: redcarpet
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "with_toc_data"]
