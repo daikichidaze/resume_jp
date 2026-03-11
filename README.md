@@ -36,3 +36,13 @@ Ruby と Bundler がある環境で以下を実行します。
 bundle install
 bundle exec jekyll serve
 ```
+
+## PDF 出力
+
+ローカルプレビューを `http://localhost:4000` で起動した状態で、以下を実行します。
+
+```bash
+node scripts/export_single_page_pdf.mjs http://localhost:4000 dist/takuma-yoshioka.pdf
+```
+
+このスクリプトは Chromium で PDF を出力した後、Ghostscript (`gs`) が使える環境では `/ebook` 設定で再圧縮します。最終サイズは標準出力に表示され、`1,000,000 bytes` を超える場合は警告を出します。

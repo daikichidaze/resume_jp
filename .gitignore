@@ -1,3 +1,4 @@
 ref/
 _site/
 .sass-cache/
+dist/
