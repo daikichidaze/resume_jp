@@ -1,0 +1,239 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+html {
+  font-size: 16px;
+}
+
+.page__content {
+  font-size: 1.03em;
+}
+
+.page__content p,
+.page__content li,
+.page__content td,
+.page__content th {
+  font-size: 1em;
+}
+
+.page__content table {
+  font-size: 0.98em;
+}
+
+.page__content h2,
+.page__content h3 {
+  margin-top: 1.8em;
+}
+
+.page__title {
+  font-size: 2em;
+}
+
+.author__name {
+  font-size: 1.12em;
+}
+
+.author__bio,
+.author__urls {
+  font-size: 0.94em;
+}
+
+.author__urls li:nth-child(5) {
+  border-top: 1px solid #d5dce5;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+}
+
+@media (min-width: 64em) {
+  .page {
+    width: calc(100% - 200px);
+    padding-inline-end: 100px;
+  }
+}
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 300px);
+    padding-inline-end: 150px;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm 12mm;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body,
+  .page,
+  .page__title,
+  .page__title a,
+  .page__content,
+  .page__content h2,
+  .page__content h3,
+  .page__content p,
+  .page__content li,
+  .page__content td,
+  .page__content th,
+  .page__content strong,
+  .page__content blockquote {
+    color: #3d4144 !important;
+  }
+
+  .masthead,
+  .author__avatar,
+  .author__urls,
+  .sidebar,
+  .page__footer,
+  .pagination,
+  .greedy-nav,
+  .toc,
+  .notice,
+  .search-content {
+    display: none !important;
+  }
+
+  .initial-content,
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  #main {
+    padding-inline: 0 !important;
+    max-width: none !important;
+  }
+
+  .page__title {
+    margin-top: 0;
+    margin-bottom: 0.2em;
+  }
+
+  .page__content {
+    font-size: 1.03em;
+    line-height: 1.42;
+  }
+
+  .page__content h2,
+  .page__content h3 {
+    break-after: avoid-page;
+    page-break-after: avoid;
+  }
+
+  .page__content h2 + table,
+  .page__content h2 + ul,
+  .page__content h3,
+  .page__content h3 + ul,
+  .page__content p,
+  .page__content li,
+  .page__content td,
+  .page__content th,
+  .page__content blockquote {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .page__content table {
+    width: 100%;
+    table-layout: fixed;
+    font-size: 0.92em;
+  }
+
+  .page__content thead {
+    display: table-header-group;
+  }
+
+  .page__content tbody tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .page__content th,
+  .page__content td {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    vertical-align: top;
+  }
+
+  .page__content h2 {
+    font-size: 1.4em;
+    margin-top: 0.7em;
+    margin-bottom: 0.35em;
+  }
+
+  .page__content h3 {
+    font-size: 1.15em;
+    margin-top: 0.9em;
+    margin-bottom: 0.25em;
+  }
+
+  .page__content ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.55em;
+  }
+
+  .page__content li > ul {
+    margin-top: 0.18em;
+  }
+
+  .page__content h3 + ul > li:last-child {
+    margin-bottom: 0;
+  }
+
+  .page__content blockquote {
+    margin: 0.45em 0 0.7em;
+    padding-inline: 0.8em 0;
+  }
+
+  .page__content p {
+    margin-bottom: 0.55em;
+  }
+
+  .page__content p:first-of-type,
+  .page__content > h3:first-of-type,
+  .page__content > blockquote:first-of-type,
+  .page__content h2#value + p,
+  .page__content h2#value + p + ul {
+    margin-bottom: 0.45em;
+  }
+
+  .page__content h2#domains {
+    margin-top: 0.55em;
+  }
+
+  .page__content h2#domains + table {
+    font-size: 0.88em;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+  }
+
+  .page__content h2#domains + table th,
+  .page__content h2#domains + table td {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    line-height: 1.28;
+  }
+
+  .page__content h2#highlights + table {
+    margin-bottom: 0.9em;
+  }
+
+  .page__content h2#career,
+  .page__content h2#職務経歴正社員,
+  .page__content h2#参考情報 {
+    page-break-before: auto;
+    break-before: auto;
+  }
+}
