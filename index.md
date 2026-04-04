@@ -155,7 +155,7 @@ Decision Design / Data & AI Strategy Lead
 
 ## 職務経歴（正社員）
 ### ISS Resolution Ltd. / Digital Solutions Strategy Consultant
-- 期間: 2024年〜現在（TOYOTA TSUSHO SYSTEMS向け業務委託）
+- 期間: 2024年〜2026年（TOYOTA TSUSHO SYSTEMS向け業務委託）
 - 職務内容: デジタルソリューション投資・新規サービス企画支援、ITコンサルモデルへの転換推進（事業企画）
 
 ### TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd. / Head of Digital Solutions & New Business
