@@ -9,6 +9,7 @@ const { chromium } = await import(
 const DEFAULT_URL = "http://localhost:4000";
 const DEFAULT_OUTPUT = "dist/resume-a4.pdf";
 const SIZE_TARGET_BYTES = 1_000_000;
+const SINGLE_PAGE_FLAG = "--single-page";
 
 function runCommand(command, args) {
   return new Promise((resolvePromise, rejectPromise) => {
@@ -61,8 +62,11 @@ async function optimizePdfWithGhostscript(inputPath, outputPath) {
 }
 
 async function main() {
-  const targetUrl = process.argv[2] || DEFAULT_URL;
-  const outputPath = resolve(process.argv[3] || DEFAULT_OUTPUT);
+  const args = process.argv.slice(2);
+  const singlePage = args.includes(SINGLE_PAGE_FLAG);
+  const positionalArgs = args.filter((arg) => arg !== SINGLE_PAGE_FLAG);
+  const targetUrl = positionalArgs[0] || DEFAULT_URL;
+  const outputPath = resolve(positionalArgs[1] || DEFAULT_OUTPUT);
 
   await mkdir(dirname(outputPath), { recursive: true });
 
@@ -88,19 +92,53 @@ async function main() {
       );
     });
 
-    await page.pdf({
+    const pdfOptions = {
       path: outputPath,
-      format: "A4",
       landscape: false,
       printBackground: true,
-      preferCSSPageSize: true,
+      preferCSSPageSize: !singlePage,
       margin: {
         top: "0",
         right: "0",
         bottom: "0",
         left: "0",
       },
-    });
+    };
+
+    if (singlePage) {
+      const { width, height } = await page.evaluate(() => {
+        const documentElement = document.documentElement;
+        const body = document.body;
+        const rootWidth = Math.max(
+          documentElement.scrollWidth,
+          documentElement.offsetWidth,
+          body?.scrollWidth ?? 0,
+          body?.offsetWidth ?? 0,
+        );
+        const rootHeight = Math.max(
+          documentElement.scrollHeight,
+          documentElement.offsetHeight,
+          body?.scrollHeight ?? 0,
+          body?.offsetHeight ?? 0,
+        );
+
+        return {
+          width: Math.ceil(rootWidth),
+          height: Math.ceil(rootHeight),
+        };
+      });
+
+      Object.assign(pdfOptions, {
+        width: `${width}px`,
+        height: `${height}px`,
+      });
+    } else {
+      Object.assign(pdfOptions, {
+        format: "A4",
+      });
+    }
+
+    await page.pdf(pdfOptions);
 
     try {
       await optimizePdfWithGhostscript(outputPath, outputPath);
@@ -112,7 +150,7 @@ async function main() {
     const outputStat = await stat(outputPath);
 
     console.log(`Saved PDF: ${outputPath}`);
-    console.log("Paper size: A4 portrait");
+    console.log(`Paper size: ${singlePage ? "single long page" : "A4 portrait"}`);
     console.log(`File size: ${outputStat.size} bytes`);
     if (outputStat.size > SIZE_TARGET_BYTES) {
       console.warn(`Warning: PDF size exceeds ${SIZE_TARGET_BYTES} bytes.`);

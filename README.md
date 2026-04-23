@@ -45,4 +45,10 @@ bundle exec jekyll serve
 node scripts/export_single_page_pdf.mjs http://localhost:4000 dist/takuma-yoshioka.pdf
 ```
 
+1枚の長いPDFとして出力したい場合は `--single-page` を付けます。
+
+```bash
+node scripts/export_single_page_pdf.mjs --single-page http://localhost:4000 dist/resume-long.pdf
+```
+
 このスクリプトは Chromium で PDF を出力した後、Ghostscript (`gs`) が使える環境では `/ebook` 設定で再圧縮します。最終サイズは標準出力に表示され、`1,000,000 bytes` を超える場合は警告を出します。
