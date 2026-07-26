@@ -41,7 +41,7 @@ html {
   font-size: 0.94em;
 }
 
-.author__urls li:nth-child(5) {
+.author__urls li:nth-child(6) {
   border-top: 1px solid #d5dce5;
   margin-top: 0.6rem;
   padding-top: 0.6rem;
@@ -192,6 +192,36 @@ html {
     margin-bottom: 0;
   }
 
+  .page__content h2#career ~ h3 {
+    margin-top: 0.45em;
+    margin-bottom: 0.12em;
+  }
+
+  .page__content h2#career ~ h3 + ul {
+    margin-top: 0.05em;
+    margin-bottom: 0.35em;
+  }
+
+  .page__content h2#career ~ h3 + ul li {
+    line-height: 1.24;
+    margin-bottom: 0.05em;
+  }
+
+  .page__content h2#highlights ~ h3 {
+    margin-top: 0.9em;
+    margin-bottom: 0.25em;
+  }
+
+  .page__content h2#highlights ~ h3 + ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.55em;
+  }
+
+  .page__content h2#highlights ~ h3 + ul li {
+    line-height: inherit;
+    margin-bottom: inherit;
+  }
+
   .page__content blockquote {
     margin: 0.45em 0 0.7em;
     padding-inline: 0.8em 0;
@@ -226,13 +256,19 @@ html {
     line-height: 1.28;
   }
 
+  .page__content h2#domains + table th:first-child,
+  .page__content h2#domains + table td:first-child {
+    width: 30%;
+  }
+
   .page__content h2#highlights + table {
     margin-bottom: 0.9em;
   }
 
   .page__content h2#career,
   .page__content h2#職務経歴正社員,
-  .page__content h2#参考情報 {
+  .page__content h2#credentials,
+  .page__content h2#education {
     page-break-before: auto;
     break-before: auto;
   }
