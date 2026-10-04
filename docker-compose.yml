@@ -9,6 +9,7 @@ services:
       - >
         (/usr/local/bin/bundle check || /usr/local/bin/bundle install --jobs 4 --retry 3) &&
         /usr/local/bin/bundle exec jekyll serve
+        --config _config.yml,_config.local.yml
         --watch
         --force_polling
         --verbose

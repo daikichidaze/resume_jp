@@ -6,6 +6,16 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 markdown: kramdown
+exclude:
+  - .worktrees
+  - docs
+  - AGENTS.md
+  - README.md
+  - docker-compose.yml
+  - _config.local.yml
+  - scripts
+  - dist
+  - ref
 kramdown:
   input: GFM
 author:

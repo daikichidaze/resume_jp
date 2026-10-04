@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} | 吉岡拓真</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    {% unless page.published %}<meta name="robots" content="noindex, nofollow">{% endunless %}
+    <meta property="og:title" content="{{ page.title | escape }} | 吉岡拓真">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ja_JP">
+    <link rel="stylesheet" href="{{ '/assets/css/advisory.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">本文へ移動</a>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}"><strong>吉岡 拓真</strong><span>AI / Data Advisory</span></a>
+        <nav aria-label="メインナビゲーション"><a href="#services">支援内容</a><a href="#difference">特長</a><a href="#advisor">実績・担当者</a>{% if page.contact_url and page.contact_url != '' %}<a class="nav-cta" href="{{ page.contact_url }}" target="_blank" rel="noopener">30分の相談 <span aria-hidden="true">↗</span></a>{% else %}<a class="nav-cta" href="#consultation">30分の相談</a>{% endif %}</nav>
+      </div>
+    </header>
+    <main id="main">
+      {{ content }}
+    </main>
+    <footer class="site-footer"><div class="container footer-inner"><p><strong>吉岡 拓真</strong><br><span>AI・データ活用アドバイザリー</span></p><div><a href="{{ '/' | relative_url }}">スキル・経歴</a><a href="https://note.com/daikichidaze">note</a><a href="https://github.com/daikichidaze">GitHub</a></div></div></footer>
+  </body>
+</html>

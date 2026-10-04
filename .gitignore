@@ -2,3 +2,5 @@ ref/
 _site/
 .sass-cache/
 dist/
+scripts/consultation-form/.clasp.json
+.playwright-mcp/
