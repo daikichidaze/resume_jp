@@ -10,7 +10,7 @@ $wash: #f4f7f7;
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 96px; }
-body { margin: 0; color: $body; background: #fff; font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", "Noto Sans JP", Arial, sans-serif; font-size: 17px; line-height: 1.85; overflow-wrap: break-word; }
+body { margin: 0; color: $body; background: #fff; font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", "Noto Sans JP", Arial, sans-serif; font-size: 17px; line-height: 1.85; overflow-wrap: break-word; word-break: auto-phrase; line-break: strict; }
 a { color: $accent; text-underline-offset: .25em; }
 a:hover { text-decoration-thickness: 2px; }
 a:focus-visible { outline: 3px solid $accent; outline-offset: 5px; }
@@ -24,6 +24,8 @@ p, dd, li { text-wrap: pretty; }
 .container { max-width: 1120px; width: calc(100% - 64px); margin-inline: auto; }
 .compact-content { max-width: 960px; }
 .compact-content > p { max-width: 42em; }
+.compact-content > .approach-summary { max-width: none; }
+.nw { white-space: nowrap; }
 .small { font-size: .85rem; color: $muted; line-height: 1.8; }
 .eyebrow { font-size: .8rem; font-weight: 700; color: $accent; letter-spacing: .12em; margin-bottom: 1.5rem; }
 .section { padding-block: 64px; }
@@ -64,6 +66,8 @@ h1 span { color: $accent; }
 .service-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 40px; }
 .service-item { border-top: 1px solid $line; padding-top: 20px; }
 .service-item p { margin-bottom: 0; }
+.service-development { grid-column: 1 / -1; }
+.service-development p { max-width: 42em; }
 .reason-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px 28px; }
 .reason-grid .service-item { border-top: 2px solid $accent; }
 .axis-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
@@ -73,11 +77,19 @@ h1 span { color: $accent; }
 .decisions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 24px; text-align: center; }
 .decisions > div { border-top: 2px solid $accent; padding: 20px 16px; background: #fff; color: $ink; text-wrap: balance; word-break: auto-phrase; }
 #advisor ul { padding-left: 20px; font-size: .9rem; }
+.advisor-profile { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 36px; align-items: start; margin-bottom: 32px; }
+.advisor-portrait { display: block; width: 100%; height: auto; border-radius: 8px; }
+.advisor-bio > p { margin-bottom: 8px; }
+.advisor-bio .hero-person { margin-top: 0; margin-bottom: 16px; }
+.advisor-bio > p:last-child { margin-bottom: 0; }
 #advisor .compact-content > h3 { font-size: 1rem; margin: 2rem 0 .6rem; }
 .case-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-block: 28px; }
 .case-grid article { border-left: 2px solid $line; padding-left: 24px; }
 .case-grid-three { grid-template-columns: repeat(3, 1fr); gap: 28px; }
 .reason-grid p, .case-grid-three p { font-size: .95rem; }
+.case-grid-three p { display: grid; grid-template-columns: 3em minmax(0, 1fr); gap: 0 8px; margin-bottom: 8px; }
+.case-grid-three article p:last-child { margin-bottom: 0; }
+.case-grid-three b { color: $accent; font-weight: 700; }
 .start-steps { list-style: none; padding: 0; counter-reset: step; margin-block: 32px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
 .start-steps li { counter-increment: step; padding: 44px 0 20px; position: relative; border-top: 1px solid $line; }
 .start-steps li::before { content: "0" counter(step); position: absolute; left: 0; top: 12px; color: $accent; }
@@ -104,6 +116,8 @@ h1 span { color: $accent; }
   .reason-grid p, .case-grid-three p { font-size: 1rem; }
 }
 @media (max-width: 900px) {
+  .advisor-profile { grid-template-columns: 1fr; gap: 24px; }
+  .advisor-portrait { width: 200px; }
   .brand { display: block; }
   .brand span { display: block; }
   nav { gap: 16px; }
