@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="530" viewBox="0 0 400 530" role="img" aria-labelledby="title desc">
+  <title id="title">AI活用の進め方設計</title>
+  <desc id="desc">実現したい事業・改善したい業務を、事業・業務の価値、データ・情報、技術・組織・費用、運用・ガバナンスの4つの視点で検討。選択肢と判断材料を整理し、貴社が進める・確かめる・見直すの方針を決めます。</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 6 4 1 7" fill="none" stroke="#66878a" stroke-width="1.3"/></marker>
+  </defs>
+  <rect x=".5" y=".5" width="399" height="529" rx="8" fill="#e7eef1" stroke="#cad8dd"/>
+  <path d="M24 1h352" stroke="#126f69" stroke-width="3"/>
+  <g font-family="sans-serif" fill="#203447">
+    <text x="24" y="42" font-size="19" font-weight="700">AI活用の進め方設計</text>
+    <text x="24" y="69" font-size="12" fill="#52666e">事業の構想から、次の一歩へ。</text>
+    <rect x="24" y="91" width="352" height="48" rx="4" fill="#d8e5e8"/>
+    <text x="200" y="121" text-anchor="middle" font-size="15" font-weight="600">実現したい事業・改善したい業務</text>
+    <!-- Parallel perspectives: no sequential relationship among the four axes. -->
+    <g fill="none" stroke="#66878a" stroke-width="1.2">
+      <path d="M200 139v14M108 164v-11h184v11"/>
+      <!-- Cross-links are relationships, not directional workflow arrows. -->
+      <path d="M168 234L232 268M232 234L168 268"/>
+    </g>
+    <g fill="#f2f6f7" stroke="#cad8dd">
+      <rect x="24" y="164" width="168" height="70" rx="4"/>
+      <rect x="208" y="164" width="168" height="70" rx="4"/>
+      <rect x="24" y="268" width="168" height="70" rx="4"/>
+      <rect x="208" y="268" width="168" height="70" rx="4"/>
+    </g>
+    <g fill="#126f69" font-size="12" letter-spacing="1">
+      <text x="38" y="188">1</text><text x="222" y="188">2</text>
+      <text x="38" y="292">3</text><text x="222" y="292">4</text>
+    </g>
+    <!-- Consistent 18px line icons: value, data, team, governance. -->
+    <g fill="none" stroke="#126f69" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <g transform="translate(57 174)"><circle cx="9" cy="9" r="7"/><circle cx="9" cy="9" r="3"/><path d="M9 9L17 1M13 1h4v4"/></g>
+      <g transform="translate(241 174)"><ellipse cx="9" cy="4" rx="7" ry="3"/><path d="M2 4v10c0 4 14 4 14 0V4M2 9c0 4 14 4 14 0"/></g>
+      <g transform="translate(57 278)"><circle cx="7" cy="5" r="3"/><path d="M1 17v-2a6 6 0 0 1 12 0v2M13 3a3 3 0 0 1 0 6M15 11a5 5 0 0 1 3 5v1"/></g>
+      <g transform="translate(241 278)"><path d="M9 1l7 3v5c0 4-3 7-7 9-4-2-7-5-7-9V4zM5 9l3 3 5-6"/></g>
+    </g>
+    <g font-size="16" font-weight="700">
+      <text x="38" y="219">事業・業務の価値</text><text x="222" y="219">データ・情報</text>
+      <text x="38" y="323">技術・組織・費用</text><text x="222" y="323">運用・ガバナンス</text>
+    </g>
+    <g fill="none" stroke="#66878a" stroke-width="1.2">
+      <path d="M108 338v17h184v-17M200 355v17" marker-end="url(#arrow)"/>
+    </g>
+    <rect x="48" y="378" width="304" height="46" rx="4" fill="#203f4b"/>
+    <text x="200" y="406" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">選択肢と判断材料を整理</text>
+    <path d="M200 424v14M80 446v-8h240v8" fill="none" stroke="#66878a" stroke-width="1.2"/>
+    <g fill="#d6e6e5"><rect x="24" y="448" width="112" height="39" rx="3"/><rect x="144" y="448" width="112" height="39" rx="3"/><rect x="264" y="448" width="112" height="39" rx="3"/></g>
+    <g font-size="15" font-weight="700" text-anchor="middle"><text x="80" y="473">進める</text><text x="200" y="473">確かめる</text><text x="320" y="473">見直す</text></g>
+    <text x="200" y="512" text-anchor="middle" font-size="13" fill="#52666e">貴社が、次の一歩を決めるために。</text>
+  </g>
+</svg>

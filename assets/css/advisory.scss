@@ -50,11 +50,11 @@ h1 span { color: $accent; }
 .button { display: inline-flex; align-items: center; justify-content: space-between; gap: 30px; padding: 16px 24px; color: #fff; background: $accent; text-decoration: none; font-weight: 700; font-size: .95rem; border: 1px solid $accent; }
 .button:hover { background: #0b5954; }
 .hero-note { margin-top: 12px; }
-.hero-map { margin: 0; background: #fff; padding: 30px 24px 20px; border: 1px solid $line; border-top: 3px solid $accent; }
+.hero-map { margin: 0; background: #e7eef1; padding: 30px 24px 20px; border: 1px solid #cbd8de; border-top: 3px solid $accent; }
 .map-caption { font-weight: 700; color: $ink; font-size: 1.1rem; margin-bottom: 1.2rem; }
 .map-intro { text-align: center; font-size: .9rem; margin-bottom: 0; }
 .map-axes { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; list-style: none; margin: 0; padding: 0; }
-.map-axes li { background: #fff; border: 1px solid $line; padding: 16px 14px; font-size: .85rem; color: $ink; font-weight: 700; }
+.map-axes li { background: #f1f5f6; border: 0; border-left: 2px solid #9bb3bc; padding: 16px 14px; font-size: .85rem; color: $ink; font-weight: 700; }
 .map-axes span { display: block; font-size: .75rem; color: $accent; margin-bottom: 5px; font-weight: 400; }
 .map-join { text-align: center; font-size: .85rem; margin-block: 0; }
 .map-intro::after, .map-join::before, .map-join::after { content: ""; display: block; height: 18px; width: 1px; background: #9bacb5; margin: 10px auto; }
@@ -162,3 +162,6 @@ h1 span { color: $accent; }
   article, .axis { break-inside: avoid; }
   a { color: $body; }
 }
+
+.hero-diagram { display: block; width: 100%; height: auto; max-width: 520px; margin-inline: auto; }
+@media (min-width: 721px) and (max-width: 1040px) { .hero-grid { grid-template-columns: 1fr; } }
