@@ -9,7 +9,7 @@ contact_url: "https://docs.google.com/forms/d/e/1FAIpQLScqiU0Ek-vQhfPMy_vLG5-apx
 
 <section id="hero" class="hero" aria-labelledby="hero-title"><div class="container hero-grid"><div>
 <p class="eyebrow">AI・データ活用アドバイザリー</p>
-<h1 id="hero-title">自社のAI活用、<br>何を進めるか。<br><span>一緒に整理します。</span></h1>
+<h1 id="hero-title"><span class="nw">自社のAI活用、</span><span class="nw">何を進めるか。</span><span class="nw">一緒に整理します。</span></h1>
 <p>業務の改善から、AI・データを価値の中心に据えたサービスづくりまで。事業と技術の両面から、実現に向けた進め方を一緒に考えます。</p>
 <p class="hero-person"><strong>吉岡 拓真</strong><span>AI・データ活用アドバイザー</span></p>
 <p>AIの導入を検討する側と、作る側。両方を経験した私自身が、直接相談をお受けします。</p>
@@ -24,10 +24,10 @@ contact_url: "https://docs.google.com/forms/d/e/1FAIpQLScqiU0Ek-vQhfPMy_vLG5-apx
 <article class="service-item"><h3>試験導入の進め方・結果を相談したい</h3><p>何を検証し、どの結果なら導入へ進むか、評価の観点と条件を整理します。</p></article>
 <article class="service-item"><h3>事業・業務での活かし方を考えたい</h3><p>顧客への新しい価値や業務の課題から、取り組むテーマと優先順位を整理します。</p></article>
 <article class="service-item"><h3>社内での進め方を考えたい</h3><p>関係部署との合意、担当者、利用ルールなど、社内で決める論点を整理します。</p></article>
-<article class="service-item service-development"><h3>AI駆動開発を社内で立ち上げたい</h3><p>試す対象と開発手順、人がレビュー・テストで確認する基準を整理し、小さく始める計画づくりを支援します。</p></article></div>
+<article class="service-item service-development"><h3>AI駆動開発を社内で立ち上げたい</h3><p>試す対象と開発手順、レビュー・テストの確認基準を整理し、小さく始める計画づくりを支援します。</p></article></div>
 </div></section>
 <section id="difference" class="section tinted" aria-labelledby="difference-title"><div class="container compact-content">
-<h2 id="difference-title">作る側と、<span class="nw">事業を運営する側</span>。<br>両方の目で確かめます。</h2>
+<h2 id="difference-title">作る側と、<span class="nw">事業を運営する側</span>。両方の目で確かめます。</h2>
 <div class="reason-grid"><article class="service-item"><h3>提案を、仕様の段階まで読みます。</h3><p>AIと協働して評価・診断ツールを開発し、仕様レビューからテストまでの手順を整えています。この実践を提案の確認に活かします。</p></article>
 <article class="service-item"><h3>採算と運用を、当事者の目で。</h3><p>AI関連事業の商品設計から運用までを担い、海外で新規事業部門を立ち上げました。<span class="nw">事業として</span>続くかも一緒に考えます。</p></article>
 <article class="service-item"><h3>生成AI以外も、公平に比べます。</h3><p>数理最適化の経験から、生成AIが最適とは限らないと考えます。既存の仕組みやルールで足りる場合は、そちらをご提案します。</p></article></div>
@@ -39,10 +39,10 @@ contact_url: "https://docs.google.com/forms/d/e/1FAIpQLScqiU0Ek-vQhfPMy_vLG5-apx
 <article class="axis"><h3>データ・情報</h3><p>必要な情報が揃い、使ってよいか。</p></article>
 <article class="axis"><h3>技術・組織・費用</h3><p>必要な技術・体制を用意でき、部署間の調整や費用の負担は見合うか。</p></article>
 <article class="axis"><h3>運用・ガバナンス</h3><p>責任・利用ルール・問題への対応をどう定め、見直すか。</p></article></div>
-<p class="approach-summary">お伺いした内容や提供資料をもとに、4つの視点で選択肢と確認事項を整理します。実際の支援では、効果の大きさに加えて<span class="nw">「関係部署との調整がどれだけ必要か」を</span>並べて、取り組む順番を決めています。</p>
+<p class="approach-summary">4つの視点で選択肢と確認事項を整理し、効果と部署間の調整負担を比べて、取り組む順番を決めます。</p>
 <div class="decisions"><div><strong>導入に進む</strong></div><div><strong>小さく確かめる</strong></div><div><strong>見直す・見送る</strong></div></div>
-<p>特定の製品導入を前提にせず、既存の仕組みの活用も比べます。情報や安全・利用条件が整わなければ、確認や準備を先に進めます。</p>
-<p>吉岡が判断材料を整理し、最終的な方針は貴社が決めます。導入後も、結果や状況の変化を踏まえて相談できます。</p>
+<p>特定の製品を前提にせず、既存の仕組みも比べます。条件が整うまでは、確認と準備を先に進めます。</p>
+<p>判断材料は吉岡が整理し、最終的な方針は貴社が決めます。導入後も相談できます。</p>
 </div></section>
 <section id="advisor" class="section tinted" aria-labelledby="advisor-title"><div class="container compact-content">
 <h2 id="advisor-title">相談もレビューも、吉岡拓真が継続して担当します。</h2>
@@ -66,8 +66,8 @@ contact_url: "https://docs.google.com/forms/d/e/1FAIpQLScqiU0Ek-vQhfPMy_vLG5-apx
 <ol class="start-steps"><li><h3>相談する</h3><p>状況と実現したいことを共有。</p></li>
 <li><h3>提案を受ける</h3><p>支援の範囲・頻度・期間・体制・費用を確認。</p></li>
 <li><h3>合意して始める</h3><p>役割分担を決め、合意した範囲から開始。</p></li></ol>
-<p>相談と提案・企画レビューを中心に支援します。<span class="nw">検証・開発・導入</span>が必要な場合は、対応範囲と体制を別途相談します。</p>
-<p>費用は、相談の頻度と、レビューする資料の量で決まります。30分の相談のあと、範囲と合わせてご提案します。ご契約は、吉岡個人との業務委託契約が基本です。</p>
+<p>相談と提案・企画レビューが中心です。<span class="nw">検証・開発・導入は、</span>範囲と体制を別途相談します。</p>
+<p>費用は、相談の頻度とレビュー資料の量で決まります。ご契約は、吉岡個人との業務委託契約が基本です。</p>
 <dl class="fit"><div><dt>向いている相談</dt><dd>何を進めるかの整理、提案や仕様の確認、検証の設計、社内の進め方。</dd></div>
 <div><dt>向いていない相談</dt><dd>ツールの操作講習だけのご依頼、開発の一括委託、補助金・助成金の申請代行。</dd></div></dl>
 </div></section>

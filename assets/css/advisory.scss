@@ -24,7 +24,7 @@ p, dd, li { text-wrap: pretty; }
 .compact-content > p, .service-development p, .fit dd { text-wrap: balance; }
 .container { max-width: 1120px; width: calc(100% - 64px); margin-inline: auto; }
 .compact-content { max-width: 960px; }
-.compact-content > p { max-width: 42em; }
+.compact-content > p { max-width: none; }
 .compact-content > .approach-summary { max-width: none; }
 .nw { white-space: nowrap; }
 .small { font-size: .85rem; color: $muted; line-height: 1.8; }
@@ -68,7 +68,7 @@ h1 span { color: $accent; }
 .service-item { border-top: 1px solid $line; padding-top: 20px; }
 .service-item p { margin-bottom: 0; }
 .service-development { grid-column: 1 / -1; }
-.service-development p { max-width: 42em; }
+.service-development p { max-width: none; }
 .reason-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px 28px; }
 .reason-grid .service-item { border-top: 2px solid $accent; }
 .axis-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
