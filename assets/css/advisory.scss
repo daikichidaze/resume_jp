@@ -21,6 +21,7 @@ h3 { font-size: 1.15rem; line-height: 1.6; }
 p { margin-bottom: 1.2rem; }
 h1, h2, h3 { text-wrap: balance; word-break: auto-phrase; }
 p, dd, li { text-wrap: pretty; }
+.compact-content > p, .service-development p, .fit dd { text-wrap: balance; }
 .container { max-width: 1120px; width: calc(100% - 64px); margin-inline: auto; }
 .compact-content { max-width: 960px; }
 .compact-content > p { max-width: 42em; }
