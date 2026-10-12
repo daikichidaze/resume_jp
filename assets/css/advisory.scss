@@ -91,6 +91,8 @@ h1 span { color: $accent; }
 .case-grid-three p { display: grid; grid-template-columns: 3em minmax(0, 1fr); gap: 0 8px; margin-bottom: 8px; }
 .case-grid-three article p:last-child { margin-bottom: 0; }
 .case-grid-three b { color: $accent; font-weight: 700; }
+#examples .case-grid-three p { display: block; }
+#examples .case-grid-three b { display: block; }
 .start-steps { list-style: none; padding: 0; counter-reset: step; margin-block: 32px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
 .start-steps li { counter-increment: step; padding: 44px 0 20px; position: relative; border-top: 1px solid $line; }
 .start-steps li::before { content: "0" counter(step); position: absolute; left: 0; top: 12px; color: $accent; }
